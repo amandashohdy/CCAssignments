@@ -1,11 +1,11 @@
 /*********************************
  * AUTHOR       : Amanda Shohdy
- * ASSIGNMENT   : HW09
+ * ASSIGNMENT   : HW09EC
  * CLASS        : CS1C
  * SECTION      : TTH 1:30-3:50p
  * DUE DATE     : 14 March 2023
  * 
- * Shape.cpp
+ * Shapes.cpp
 **********************************/
 
 #include "Shapes.h" 
