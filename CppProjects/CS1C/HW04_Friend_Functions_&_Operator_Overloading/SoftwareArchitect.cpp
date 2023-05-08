@@ -1,9 +1,9 @@
 /*********************************
  * AUTHOR       : Amanda Shohdy
- * ASSIGNMENT   : HW02
+ * ASSIGNMENT   : HW04
  * CLASS        : CS1C
  * SECTION      : TTH 1:30-3:50p
- * DUE DATE     : 26 January 2023
+ * DUE DATE     : 13 February 2023
  * 
  * SoftwareArchitect.cpp
 **********************************/
