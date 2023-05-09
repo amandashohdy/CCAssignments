@@ -1,0 +1,10 @@
+name = input ("Enter any name:  ")
+age = input ("Enter an age:  ")
+city = input ("Enter a city:  ")
+college = input ("Enter a college:  ")
+job = input ("Enter a job:  ")
+animal = input ("Enter an animal:  ")
+animalName = input ("Name your animal:  ")
+
+print()
+print("There once was a person named " + name + " who lived in " + city + ". At the age of " + age + ", " + name + " went to college at " + college + ". " + name + " graduated and went to work as a " + job + ". Then, " + name + " adopted a(n) " + animal + " named " + animalName + ". They both lived happily ever after!")
