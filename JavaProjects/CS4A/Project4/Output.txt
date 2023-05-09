@@ -1,6 +1,6 @@
-C:\JavaProjects>javac Exam4/Main.java
+C:\JavaProjects>javac Project4/Main.java
 
-C:\JavaProjects>java Exam4/Main
+C:\JavaProjects>java Project4/Main
 Enter a SINGLE number. This will be used for the circle radius,  the square's side, and one side of the rectangle:
 1
 Enter the other side of the rectangle:
@@ -14,7 +14,7 @@ Circle perimeter: 6.283185307179586
 Square perimeter: 4.0
 Rectangle perimeter: 4.0
 
-C:\JavaProjects>java Exam4/Main
+C:\JavaProjects>java Project4/Main
 Enter a SINGLE number. This will be used for the circle radius,  the square's side, and one side of the rectangle:
 10
 Enter the other side of the rectangle:
@@ -28,7 +28,7 @@ Circle perimeter: 62.83185307179586
 Square perimeter: 40.0
 Rectangle perimeter: 44.0
 
-C:\JavaProjects>java Exam4/Main
+C:\JavaProjects>java Project4/Main
 Enter a SINGLE number. This will be used for the circle radius,  the square's side, and one side of the rectangle:
 5.7
 Enter the other side of the rectangle:
