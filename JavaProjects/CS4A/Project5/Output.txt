@@ -1,7 +1,7 @@
 
-C:\JavaProjects>javac Exam5/AddressBook.java
+C:\JavaProjects>javac Project5/AddressBook.java
 
-C:\JavaProjects>java Exam5/AddressBook
+C:\JavaProjects>java Project5/AddressBook
 
 
 
