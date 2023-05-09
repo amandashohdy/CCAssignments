@@ -1,12 +1,12 @@
 /*********************************
  * AUTHOR       : Amanda Shohdy
- * ASSIGNMENT   : EXAM 5
+ * ASSIGNMENT   : Project 5
  * CLASS        : CS4A
  * SECTION      : TTH 6:00-6:50p
  * DUE DATE     : 4 May 2023
 **********************************/
 
-package Exam5 ;
+package Project5 ;
 
 public class PersonalContact extends Contact
 {
