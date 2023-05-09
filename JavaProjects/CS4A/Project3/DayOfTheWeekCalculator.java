@@ -19,7 +19,7 @@ import java.util.Scanner ;
  * OUTPUT
  *     The day of the week given a date
  ******************************************************************************************************/
-public class Exam3
+public class DayOfTheWeekCalculator
 {
 	public static void main(String[] args)
 	{
