@@ -1,3 +1,6 @@
+# Amanda Shohdy
+# 11/2/2021
+
 def reformatting(q, a) :
     print("\nQuestion:\n" + q + "\n")
     reformat = input("Would you like to reformat your question? ")
