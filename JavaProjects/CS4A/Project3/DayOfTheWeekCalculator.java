@@ -1,7 +1,6 @@
 /*****************************
  * AUTHOR :  Amanda Shohdy
  * DATE   :  14 March 2023
- *          EXAM 3
  *****************************/
 
 import java.util.Scanner ;
