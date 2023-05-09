@@ -1,3 +1,6 @@
+# Amanda Shohdy
+# 12/3/2021
+
 def count_down(count, sub) :
     if count == 0 :
         print(count)
