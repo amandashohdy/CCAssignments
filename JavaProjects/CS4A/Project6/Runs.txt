@@ -1,19 +1,17 @@
 /*****************************
  * AUTHOR :  Amanda Shohdy
  * DATE   :  6 April 2023
- * ID #   :  1151978
- *          EXAM 4
  *****************************/
 
-C:\JavaProjects>javac Exam4.java
+C:\JavaProjects>javac Project6.java
 
-C:\JavaProjects>java Exam4
+C:\JavaProjects>java Project6
 Territory 0 = RED
 Territory 1 = GREEN
 Territory 2 = BLUE
 Territory 3 = GREEN
 
-C:\JavaProjects>javac Exam4.java
+C:\JavaProjects>javac Project6.java
 
-C:\JavaProjects>java Exam4
+C:\JavaProjects>java Project6
 No solution exists
