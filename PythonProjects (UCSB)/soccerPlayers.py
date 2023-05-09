@@ -1,3 +1,6 @@
+# Amanda Shohdy
+# 11/21/2021
+
 def pickOption() :
     option = input('''\nMENU
 a - Add player
