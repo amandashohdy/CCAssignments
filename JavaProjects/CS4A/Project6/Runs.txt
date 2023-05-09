@@ -1,0 +1,19 @@
+/*****************************
+ * AUTHOR :  Amanda Shohdy
+ * DATE   :  6 April 2023
+ * ID #   :  1151978
+ *          EXAM 4
+ *****************************/
+
+C:\JavaProjects>javac Exam4.java
+
+C:\JavaProjects>java Exam4
+Territory 0 = RED
+Territory 1 = GREEN
+Territory 2 = BLUE
+Territory 3 = GREEN
+
+C:\JavaProjects>javac Exam4.java
+
+C:\JavaProjects>java Exam4
+No solution exists
