@@ -5,7 +5,6 @@ C:\JavaProjects>java Exam3
 *******************
 ** Amanda Shohdy **
 ** 14 March 2023 **
-**    1151978    **
 *******************
 
 
