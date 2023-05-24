@@ -1,0 +1,8 @@
+BIO    2
+BUS    1
+CHEM   2
+CS     1
+ENG    1
+MATH   1
+PHYS   1
+PSYC   2

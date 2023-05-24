@@ -1,0 +1,8 @@
+BIO    3
+BUS    3
+CHEM   3
+CS     3
+ENG    3
+MATH   3
+PHYS   3
+PSYC   3

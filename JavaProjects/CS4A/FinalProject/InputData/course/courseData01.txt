@@ -1,0 +1,15 @@
+BIO    3C    Biochemistry-and-Molecular-Biology             15    7
+BIO    4A    Principles-of-Cellular-Biology                 20    10
+BIO    4B    Principles-of-Organismal-Biology               15    8
+BIO    15    General-Microbiology                           16    8
+BIO    19    Marine-Biology                                 20    10
+BUS    1     Introduction-to-Business                       17    8
+BUS    10    Business-Statistics                            20    10
+CHEM   1A    General-Chemistry-I                            25    10
+CHEM   1B    General-Chemistry-II                           23    11
+CHEM   3     Fundamental-Chemistry                          13    5
+CS     1A    Introduction-to-Computer-Science-I             20    10
+CS     1B    Introduction-to-Computer-Science-II            17    6
+CS     1C    Introduction-to-Computer-Science-III           30    8
+CS     1D    Data-Structures                                14    7
+CS     3A    Computer-Organization-and-Machine-Language     15    5

@@ -1,0 +1,8 @@
+BIO    15
+BUS    12
+CHEM   16
+CS     17
+ENG    11
+MATH   18
+PHYS   9
+PSYC   10
