@@ -1,0 +1,20 @@
+The tests included here are as follows:
+
+G0: 1 Generic account, deposit, withdraw (pass)
+G1: 1 Generic account, deposit, withdraw, overdraw (fail)
+G2: 1 Generic account, deposit, invalid account withdraw (fail)
+G3: 2 Generic accounts, transfer, transfer (pass)
+G4: 2 Generic accounts, transfer, transfer (fail)
+
+S0: 1 Savings account, deposit, withdraw (pass)
+S1: 1 Savings account, deposit, withdraw, overdraw (fail)
+
+C1: 1 Checking account, deposit, withdraw, overdraw (pass)
+C4: 2 Checking accounts, transfer, transfer (fail)
+
+M0: 1 MoneyMarket account, deposit, withdraw (pass)
+M1: 1 MoneyMarket account, deposit, withdraw, overdraw attempt (pass due to high interest)
+M4: 2 MoneyMarket accounts, transfer, transfer over draw attempt on the limit (fail, fee causes failure) 
+
+A0: 1 of each account, deposit, withdraw (pass)
+A5: 1 of each account, example in description
