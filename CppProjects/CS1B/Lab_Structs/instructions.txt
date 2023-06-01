@@ -1,4 +1,9 @@
-Copy then modify zyBooks Lab: Multi-Dimensional Arrays (aka MATH ANYONE) to use an array of structs instead of a 2D string array. The struct must contain the student id as a string, the test answers as a string, the test score (computed) as a double, and test grade (computed) as a char. In addition, the array must be sorted in ascending order by student id using an appropriate modification of your bubbleSort() function from Assignment #1 (note: sort the array before computing the min, max, and average). Also create a function called outputResults() that takes your sorted array of structs as a parameter (along with anything else you need) and produces the table output below (i.e. not the Min, Max, and Average which your main should still compute and output).
+Copy then modify zyBooks Lab: Multi-Dimensional Arrays (aka MATH ANYONE) to use an array of structs instead of a 2D string array. The struct must contain
+the student id as a string, the test answers as a string, the test score (computed) as a double, and test grade (computed) as a char. In addition, the
+array must be sorted in ascending order by student id using an appropriate modification of your bubbleSort() function from Assignment #1 (note: sort the
+array before computing the min, max, and average). Also create a function called outputResults() that takes your sorted array of structs as a parameter
+(along with anything else you need) and produces the table output below (i.e. not the Min, Max, and Average which your main should still compute and
+output).
 
 You must use structs and the aforementioned functions to get credit for this lab (e.g. if your output is correct but you don’t use structs or the functions, then you will get ZERO for this lab).
 
