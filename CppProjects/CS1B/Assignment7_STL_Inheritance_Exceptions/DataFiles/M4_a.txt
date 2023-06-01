@@ -1,2 +1,0 @@
-4	1	2021	6789	MoneyMarket	100.00	Joe Big
-4	1	2021	6799	MoneyMarket	100.00	Josephine Better

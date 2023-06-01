@@ -1,4 +1,0 @@
-4	1	2021	6789	Generic		100.00	Joe Big
-4	1	2021	2323	Checking	50.00	Jennifer Kim
-4	1	2021	1212	Savings		300.00	Nery Chapeton Lamas
-4	1	2021	3434	MoneyMarket	100.00	Shannon Alfaro

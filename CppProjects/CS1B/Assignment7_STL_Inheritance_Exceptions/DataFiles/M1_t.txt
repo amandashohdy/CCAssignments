@@ -1,3 +1,0 @@
-5	1	2021	6789	50.00	Deposit
-6	1	2021	6789	10.00	Withdrawal
-7	1	2021	6789	200.00	Withdrawal
