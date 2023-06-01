@@ -1,0 +1,9 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN SAVINGS         4/1/2021   6789    Harry Brown Jr.       $   100.00  $      100.00    
+
+ Deposit             5/1/2021   6789    Harry Brown Jr.       $    50.00  $      160.00    
+ Withdrawal          6/1/2021   6789    Harry Brown Jr.       $    10.00  $      166.00    
+
+*** ERROR FOR TRANSACTION: Withdrawal, Insufficient funds in account 6789 ***
+

@@ -1,0 +1,8 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN GENERIC         4/1/2021   6789    Joe Big               $   100.00  $      100.00    
+
+ Deposit             5/1/2021   6789    Joe Big               $    50.00  $      150.00    
+
+*** ERROR FOR TRANSACTION: Withdrawal, Account 4321 not found ***
+

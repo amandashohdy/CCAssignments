@@ -1,0 +1,7 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN CHECKING        4/1/2021   6789    Mindy Mouse           $   100.00  $      100.00    
+
+ Deposit             5/1/2021   6789    Mindy Mouse           $    50.00  $      150.00    
+ Withdrawal          6/1/2021   6789    Mindy Mouse           $    10.00  $      140.00    
+ Withdrawal          7/1/2021   6789    Mindy Mouse           $   200.00  $      -80.00    

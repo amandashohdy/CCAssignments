@@ -1,0 +1,6 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN MONEY MARKET    4/1/2021   6789    Big McKenzie          $   100.00  $      100.00    
+
+ Deposit             5/1/2021   6789    Big McKenzie          $    50.00  $      170.00    
+ Withdrawal          6/1/2021   6789    Big McKenzie          $    10.00  $      192.50    

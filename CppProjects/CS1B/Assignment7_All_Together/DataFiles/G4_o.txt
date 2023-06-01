@@ -1,0 +1,9 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN GENERIC         4/1/2021   6789    Joe Big               $   100.00  $      100.00    
+OPEN GENERIC         4/1/2021   6799    Josephine Better      $   100.00  $      100.00    
+
+ Transfer            5/1/2021   6799    Josephine Better      $    50.00  $      150.00    6789          $       50.00
+
+*** ERROR FOR TRANSACTION: Transfer, Insufficient funds in account 6789 ***
+

@@ -1,0 +1,6 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN SAVINGS         4/1/2021   6789    Wendy Burg            $   100.00  $      100.00    
+
+ Deposit             5/1/2021   6789    Wendy Burg            $    50.00  $      160.00    
+ Withdrawal          6/1/2021   6789    Wendy Burg            $    10.00  $      166.00    

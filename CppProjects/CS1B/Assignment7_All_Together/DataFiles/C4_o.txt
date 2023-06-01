@@ -1,0 +1,7 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN CHECKING        4/1/2021   6789    Marcus Bart           $   100.00  $      100.00    
+OPEN CHECKING        4/1/2021   6799    Juan Alvarez          $   100.00  $      100.00    
+
+ Transfer            5/1/2021   6799    Juan Alvarez          $    50.00  $      150.00    6789          $       50.00
+ Transfer            6/1/2021   6799    Juan Alvarez          $   100.00  $      250.00    6789          $      -70.00
