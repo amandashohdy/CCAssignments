@@ -5,7 +5,8 @@ array before computing the min, max, and average). Also create a function called
 (along with anything else you need) and produces the table output below (i.e. not the Min, Max, and Average which your main should still compute and
 output).
 
-You must use structs and the aforementioned functions to get credit for this lab (e.g. if your output is correct but you don’t use structs or the functions, then you will get ZERO for this lab).
+You must use structs and the aforementioned functions to get credit for this lab (e.g. if your output is correct but you don’t use structs or the 
+functions, then you will get ZERO for this lab).
 
 
 Screen OUTPUT (program) – should be formatted as follows (example using the provided testScores.txt file)
