@@ -1,0 +1,1210 @@
+Scheduled Students
+-------------------
+
+
+1. Ulrica Jereme Breacher (S_aaaa)
+        E: jbreacher0@yellowpages.com
+        T: 661-396-8072
+        A: 8 Pawling Plaza, Lancaster, California 93584
+        DOB: 09/20/2002
+        GPA: 3.44
+        Start Date: 05/17/2023
+
+    PHYS4A General Physics I
+        Session: C_d2
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+2. Barnett Dory Barus (S_baaa)
+        E: dbarus1@flavors.me
+        T: 704-603-5946
+        A: 12527 Annamark Trail, Charlotte, North-Carolina 28289
+        DOB: 09/28/2001
+        GPA: 2.74
+        Start Date: 04/26/2018
+
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    BIO19 Marine Biology
+        Session: C_a8
+    CHEM3 Fundamental Chemistry
+        Session: C_b7
+
+
+3. Kalil Lily Chazerand (S_caaa)
+        E: lchazerand2@biglobe.ne.jp
+        T: 606-274-4815
+        A: 1 Truax Junction, London, Kentucky 40745
+        DOB: 11/10/2000
+        GPA: 2.28
+        Start Date: 04/01/2023
+
+    PHYS2A Introduction to Physics
+        Session: C_d1
+    CS3A Computer Organization and Machine Language
+        Session: C_c2
+    ENG1A Principles of Composition I
+        Session: C_c4
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+4. Cory Cathrin Jerdon (S_daaa)
+        E: cjerdon3@google.it
+        T: 502-502-5941
+        A: 32 Hagan Drive, Louisville, Kentucky 40280
+        DOB: 11/19/2003
+        GPA: 3.99
+        Start Date: 09/15/2020
+
+    BIO19 Marine Biology
+        Session: C_a8
+    PHYS2A Introduction to Physics
+        Session: C_d1
+    ENG1A Principles of Composition I
+        Session: C_c4
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+
+
+5. Wayland Esmaria Wickersley (S_eaaa)
+        E: ewickersley4@bloglines.com
+        T: 251-224-4640
+        A: 626 Twin Pines Crossing, Mobile, Alabama 36622
+        DOB: 05/07/2003
+        GPA: 3.39
+        Start Date: 12/25/2021
+
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    BIO19 Marine Biology
+        Session: C_a8
+    BIO15 General Microbiology
+        Session: C_a6
+
+
+6. Sukey Giacopo Mateiko (S_faaa)
+        E: gmateiko5@kickstarter.com
+        T: 443-228-2572
+        A: 0 Continental Parkway, Baltimore, Maryland 21229
+        DOB: 09/04/2003
+        GPA: 2.51
+        Start Date: 09/21/2019
+
+    BIO19 Marine Biology
+        Session: C_a8
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    CHEM1A General Chemistry I
+        Session: C_b2
+    CS3B Computer Organization and Assembly Language
+        Session: C_c3
+
+
+7. Katrine Lanie Focke (S_gaaa)
+        E: lfocke6@drupal.org
+        T: 502-524-7117
+        A: 61871 Waywood Center, Louisville, Kentucky 40287
+        DOB: 10/12/2002
+        GPA: 2.7
+        Start Date: 01/06/2022
+
+    MATH3C Analytic Geometry and Calculus III
+        Session: C_c9
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    CHEM3 Fundamental Chemistry
+        Session: C_b7
+
+
+8. Felice Juliann Cody (S_haaa)
+        E: jcody7@examiner.com
+        T: 225-692-1476
+        A: 73477 Maryland Park, Baton Rouge, Louisiana 70826
+        DOB: 04/16/2001
+        GPA: 3.86
+        Start Date: 05/07/2023
+
+    CS3A Computer Organization and Machine Language
+        Session: C_c2
+    CHEM1B General Chemistry II
+        Session: C_b4
+    BIO15 General Microbiology
+        Session: C_a6
+
+
+9. Merline Marchelle McCathie (S_iaaa)
+        E: mmccathie8@go.com
+        T: 361-961-4488
+        A: 464 Warner Trail, Corpus Christi, Texas 78405
+        DOB: 03/29/2002
+        GPA: 3.22
+        Start Date: 05/20/2021
+
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+10. Kristel Jesus Pedracci (S_jaaa)
+        E: jpedracci9@army.mil
+        T: 313-800-8014
+        A: 15096 Talmadge Court, Detroit, Michigan 48295
+        DOB: 06/25/2001
+        GPA: 3.77
+        Start Date: 02/07/2018
+
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    CS1B Introduction to Computer Science II
+        Session: C_b9
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+11. Marcile Any Josum (S_kaaa)
+        E: ajosuma@plala.or.jp
+        T: 304-381-0006
+        A: 37 Cambridge Park, Charleston, West-Virginia 25321
+        DOB: 11/10/2000
+        GPA: 3.19
+        Start Date: 12/04/2019
+
+    BUS10 Business Statistics
+        Session: C_b1
+    CS3A Computer Organization and Machine Language
+        Session: C_c2
+    BIO15 General Microbiology
+        Session: C_a6
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+
+
+12. Meta Cate Alderwick (S_laaa)
+        E: calderwickb@squarespace.com
+        T: 301-381-8487
+        A: 80322 Caliangt Pass, Bethesda, Maryland 20892
+        DOB: 03/24/2000
+        GPA: 3.0
+        Start Date: 03/16/2019
+
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+    ENG1A Principles of Composition I
+        Session: C_c4
+
+
+13. Margalit Linnie McKevany (S_maaa)
+        E: lmckevanyc@altervista.org
+        T: 623-455-2514
+        A: 59 North Terrace, Scottsdale, Arizona 85260
+        DOB: 10/09/2002
+        GPA: 2.42
+        Start Date: 01/11/2018
+
+    MATH3C Analytic Geometry and Calculus III
+        Session: C_c9
+    PHYS4A General Physics I
+        Session: C_d2
+    BIO15 General Microbiology
+        Session: C_a6
+
+
+14. Anton Albrecht Esposita (S_naaa)
+        E: aespositad@tiny.cc
+        T: 727-935-1585
+        A: 20 Dakota Hill, Clearwater, Florida 34629
+        DOB: 05/08/2000
+        GPA: 2.15
+        Start Date: 08/08/2017
+
+    CS1C Introduction to Computer Science III
+        Session: C_c0
+    CHEM1A General Chemistry I
+        Session: C_b2
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+15. Morganne Ediva Gomery (S_oaaa)
+        E: egomerye@example.com
+        T: 515-486-8017
+        A: 7382 Chive Terrace, Des Moines, Iowa 50347
+        DOB: 12/18/2001
+        GPA: 3.66
+        Start Date: 03/22/2018
+
+    CS3B Computer Organization and Assembly Language
+        Session: C_c3
+    PHYS2A Introduction to Physics
+        Session: C_d1
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+16. Hillary Fons Blowing (S_paaa)
+        E: fblowingf@pcworld.com
+        T: 217-342-5960
+        A: 79522 Myrtle Terrace, Springfield, Illinois 62718
+        DOB: 05/10/2001
+        GPA: 2.87
+        Start Date: 03/03/2020
+
+    CHEM1B General Chemistry II
+        Session: C_b4
+    ENG1A Principles of Composition I
+        Session: C_c4
+    CS1B Introduction to Computer Science II
+        Session: C_b9
+
+
+17. Caty Flynn Tripe (S_qaaa)
+        E: ftripeg@cbc.ca
+        T: 952-517-7905
+        A: 85049 International Street, Maple Plain, Minnesota 55579
+        DOB: 11/28/2003
+        GPA: 2.59
+        Start Date: 10/08/2019
+
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    CHEM3 Fundamental Chemistry
+        Session: C_b6
+    BUS10 Business Statistics
+        Session: C_b1
+
+
+18. Redd Ree Pullin (S_raaa)
+        E: rpullinh@pcworld.com
+        T: 404-325-1066
+        A: 921 Sommers Terrace, Alpharetta, Georgia 30022
+        DOB: 09/10/2002
+        GPA: 2.57
+        Start Date: 02/04/2018
+
+    CS1C Introduction to Computer Science III
+        Session: C_c0
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+19. Tiffy Gustavo Muttock (S_saaa)
+        E: gmuttocki@ed.gov
+        T: 520-619-3003
+        A: 0 7th Circle, Tucson, Arizona 85754
+        DOB: 07/10/2003
+        GPA: 3.59
+        Start Date: 06/30/2020
+
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    CHEM3 Fundamental Chemistry
+        Session: C_b6
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+
+
+20. Harriet Arni Budge (S_taaa)
+        E: abudgej@imdb.com
+        T: 843-674-8221
+        A: 47 High Crossing Parkway, Charleston, South-Carolina 29411
+        DOB: 10/20/2001
+        GPA: 2.33
+        Start Date: 08/14/2020
+
+    CS1C Introduction to Computer Science III
+        Session: C_c0
+    PHYS2A Introduction to Physics
+        Session: C_d1
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+21. Emmott Bobby Yanov (S_uaaa)
+        E: byanovk@alibaba.com
+        T: 202-449-2449
+        A: 705 Swallow Pass, Washington, District-of-Columbia 20540
+        DOB: 09/24/2002
+        GPA: 2.29
+        Start Date: 10/11/2022
+
+    PHYS4A General Physics I
+        Session: C_d2
+    BIO15 General Microbiology
+        Session: C_a6
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+22. Elsa Shay Lucia (S_vaaa)
+        E: slucial@google.com.au
+        T: 502-588-2080
+        A: 226 Caliangt Park, Louisville, Kentucky 40205
+        DOB: 10/02/2002
+        GPA: 2.38
+        Start Date: 03/31/2018
+
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    BUS10 Business Statistics
+        Session: C_b1
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+23. Boot Melicent Stormonth (S_waaa)
+        E: mstormonthm@forbes.com
+        T: 614-338-9508
+        A: 63 Talisman Crossing, Columbus, Ohio 43240
+        DOB: 12/10/2000
+        GPA: 3.78
+        Start Date: 04/29/2019
+
+    CS3A Computer Organization and Machine Language
+        Session: C_c2
+    BUS10 Business Statistics
+        Session: C_b1
+    PHYS2A Introduction to Physics
+        Session: C_d1
+
+
+24. Truman Gwyn Berling (S_xaaa)
+        E: gberlingn@ning.com
+        T: 479-854-4964
+        A: 10 Linden Terrace, Fort Smith, Arkansas 72916
+        DOB: 10/23/2002
+        GPA: 2.78
+        Start Date: 10/15/2017
+
+    ENG1A Principles of Composition I
+        Session: C_c4
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+25. Filmore Grange Prudence (S_yaaa)
+        E: gprudenceo@live.com
+        T: 716-736-8389
+        A: 76753 Mockingbird Parkway, Buffalo, New-York 14225
+        DOB: 12/23/2002
+        GPA: 3.98
+        Start Date: 10/21/2022
+
+    CHEM1B General Chemistry II
+        Session: C_b5
+
+
+26. Wildon Myrtie Takle (S_zaaa)
+        E: mtaklep@nhs.uk
+        T: 404-600-9185
+        A: 556 Sage Road, Atlanta, Georgia 31106
+        DOB: 07/19/2000
+        GPA: 3.68
+        Start Date: 06/04/2020
+
+    PHYS2A Introduction to Physics
+        Session: C_d1
+    BIO4B Principles of Organismal Biology
+        Session: C_a4
+
+
+27. Walsh Willy Redholes (S_abaa)
+        E: wredholesq@cisco.com
+        T: 913-467-2235
+        A: 3534 Merrick Center, Kansas City, Kansas 66105
+        DOB: 01/11/2002
+        GPA: 2.22
+        Start Date: 04/17/2023
+
+    CS1B Introduction to Computer Science II
+        Session: C_b9
+    CHEM1A General Chemistry I
+        Session: C_b2
+    BUS10 Business Statistics
+        Session: C_b1
+
+
+28. Culley Dulci Kingsworth (S_bbaa)
+        E: dkingsworthr@addtoany.com
+        T: 512-847-0742
+        A: 345 Norway Maple Junction, Austin, Texas 78783
+        DOB: 11/09/2002
+        GPA: 3.47
+        Start Date: 08/16/2018
+
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+
+
+29. Candy Natalina Scuse (S_cbaa)
+        E: nscuses@japanpost.jp
+        T: 217-426-7975
+        A: 33 7th Lane, Springfield, Illinois 62764
+        DOB: 03/05/2002
+        GPA: 2.72
+        Start Date: 02/11/2019
+
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    ENG1B Principles of Composition II
+        Session: C_c5
+
+
+30. Yancy Margarethe Doerr (S_dbaa)
+        E: mdoerrt@taobao.com
+        T: 301-197-6404
+        A: 01 2nd Way, Annapolis, Maryland 21405
+        DOB: 12/07/2000
+        GPA: 2.26
+        Start Date: 12/05/2021
+
+    BUS1 Introduction to Business
+        Session: C_b0
+    BIO4B Principles of Organismal Biology
+        Session: C_a4
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+31. Graham Petronella Prenty (S_ebaa)
+        E: pprentyu@theglobeandmail.com
+        T: 407-785-2545
+        A: 56846 Lyons Junction, Orlando, Florida 32830
+        DOB: 07/19/2000
+        GPA: 2.42
+        Start Date: 01/13/2023
+
+    MATH3C Analytic Geometry and Calculus III
+        Session: C_c9
+    CHEM3 Fundamental Chemistry
+        Session: C_b7
+
+
+32. Sutherlan Torin Hadleigh (S_fbaa)
+        E: thadleighv@instagram.com
+        T: 863-696-6617
+        A: 4 Gateway Place, Lakeland, Florida 33805
+        DOB: 04/01/2001
+        GPA: 3.91
+        Start Date: 10/03/2022
+
+    ENG1B Principles of Composition II
+        Session: C_c5
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+
+
+33. Phylys Carolann Keene (S_gbaa)
+        E: ckeenew@shutterfly.com
+        T: 504-144-2435
+        A: 64 Kropf Terrace, Metairie, Louisiana 70033
+        DOB: 09/20/2003
+        GPA: 3.77
+        Start Date: 10/18/2021
+
+    CHEM1A General Chemistry I
+        Session: C_b2
+    MATH3C Analytic Geometry and Calculus III
+        Session: C_c9
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+
+
+34. Benita Emmie Gokes (S_hbaa)
+        E: egokesx@trellian.com
+        T: 904-402-0035
+        A: 9 Emmet Hill, Jacksonville, Florida 32220
+        DOB: 09/30/2001
+        GPA: 3.43
+        Start Date: 02/22/2019
+
+    BUS1 Introduction to Business
+        Session: C_b0
+    CHEM1B General Chemistry II
+        Session: C_b5
+    BIO4B Principles of Organismal Biology
+        Session: C_a4
+
+
+35. Louis Gregorius Betts (S_ibaa)
+        E: gbettsy@example.com
+        T: 202-110-6169
+        A: 7195 Graceland Way, Washington, District-of-Columbia 20268
+        DOB: 03/22/2002
+        GPA: 2.8
+        Start Date: 01/10/2021
+
+    BUS10 Business Statistics
+        Session: C_b1
+    BIO19 Marine Biology
+        Session: C_a8
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+36. Inesita Daniela Hardern (S_jbaa)
+        E: dhardernz@scribd.com
+        T: 505-841-0436
+        A: 2 Hovde Junction, Albuquerque, New-Mexico 87140
+        DOB: 10/08/2003
+        GPA: 2.83
+        Start Date: 03/05/2020
+
+    CHEM3 Fundamental Chemistry
+        Session: C_b6
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+37. Rafferty Lyndel Del-Monte (S_kbaa)
+        E: ldelmonte10@alibaba.com
+        T: 202-936-4786
+        A: 97 Del Sol Drive, Washington, District-of-Columbia 20599
+        DOB: 05/25/2002
+        GPA: 3.39
+        Start Date: 09/11/2017
+
+    CS1B Introduction to Computer Science II
+        Session: C_b9
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    CHEM1A General Chemistry I
+        Session: C_b2
+    ENG1B Principles of Composition II
+        Session: C_c5
+
+
+38. Briggs Callie Oloshkin (S_lbaa)
+        E: coloshkin11@wiley.com
+        T: 412-281-5409
+        A: 1 Weeping Birch Point, Pittsburgh, Pennsylvania 15255
+        DOB: 04/21/2001
+        GPA: 3.96
+        Start Date: 09/05/2021
+
+    PHYS4A General Physics I
+        Session: C_d2
+    MATH3C Analytic Geometry and Calculus III
+        Session: C_c9
+    CHEM1B General Chemistry II
+        Session: C_b5
+
+
+39. Sutherlan Chloette Langmaid (S_mbaa)
+        E: clangmaid12@blogger.com
+        T: 405-836-9191
+        A: 33281 Menomonie Trail, Oklahoma City, Oklahoma 73197
+        DOB: 01/29/2002
+        GPA: 2.68
+        Start Date: 12/15/2021
+
+    CHEM3 Fundamental Chemistry
+        Session: C_b6
+    PHYS2A Introduction to Physics
+        Session: C_d1
+    ENG1A Principles of Composition I
+        Session: C_c4
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+40. Manuel Saudra Ridley (S_nbaa)
+        E: sridley13@qq.com
+        T: 775-372-1743
+        A: 42128 Pawling Junction, Sparks, Nevada 89436
+        DOB: 01/17/2003
+        GPA: 2.64
+        Start Date: 08/20/2018
+
+    CHEM3 Fundamental Chemistry
+        Session: C_b6
+    BIO19 Marine Biology
+        Session: C_a8
+
+
+41. Sarene Dominga Pendrich (S_obaa)
+        E: dpendrich14@ask.com
+        T: 801-580-9189
+        A: 81892 Di Loreto Avenue, Provo, Utah 84605
+        DOB: 02/01/2003
+        GPA: 2.93
+        Start Date: 03/22/2018
+
+    BIO15 General Microbiology
+        Session: C_a6
+    PHYS2A Introduction to Physics
+        Session: C_d1
+
+
+42. Adolphe Anna-maria Rissom (S_pbaa)
+        E: arissom15@harvard.edu
+        T: 314-646-0065
+        A: 7647 Russell Crossing, Saint Louis, Missouri 63110
+        DOB: 09/30/2002
+        GPA: 2.62
+        Start Date: 04/21/2019
+
+    BIO19 Marine Biology
+        Session: C_a8
+    ENG1A Principles of Composition I
+        Session: C_c4
+
+
+43. Rikki Valida Hackworth (S_qbaa)
+        E: vhackworth16@tuttocitta.it
+        T: 256-577-6842
+        A: 946 Manitowish Circle, Huntsville, Alabama 35895
+        DOB: 12/06/2000
+        GPA: 2.36
+        Start Date: 10/29/2018
+
+    BUS10 Business Statistics
+        Session: C_b1
+    CS3B Computer Organization and Assembly Language
+        Session: C_c3
+    BIO4B Principles of Organismal Biology
+        Session: C_a4
+    ENG1B Principles of Composition II
+        Session: C_c5
+
+
+44. Lorens Kippy Santen (S_rbaa)
+        E: ksanten17@blogtalkradio.com
+        T: 602-707-8050
+        A: 5995 Nevada Circle, Phoenix, Arizona 85062
+        DOB: 10/16/2000
+        GPA: 2.3
+        Start Date: 03/21/2022
+
+    CHEM1B General Chemistry II
+        Session: C_b4
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+45. Moore Sarene Emmins (S_sbaa)
+        E: semmins18@ucoz.com
+        T: 858-799-1179
+        A: 248 Union Plaza, San Diego, California 92145
+        DOB: 12/08/2001
+        GPA: 2.2
+        Start Date: 12/05/2021
+
+    ENG1A Principles of Composition I
+        Session: C_c4
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+46. Aldrich Dolf Gylle (S_tbaa)
+        E: dgylle19@e-recht24.de
+        T: 860-290-9796
+        A: 15088 2nd Hill, Hartford, Connecticut 6183
+        DOB: 02/28/2001
+        GPA: 3.06
+        Start Date: 12/29/2020
+
+    BIO4B Principles of Organismal Biology
+        Session: C_a4
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    MATH10 Introduction to Statistics
+        Session: C_d0
+
+
+47. Sherill Jordain Zuan (S_ubaa)
+        E: jzuan1a@yahoo.com
+        T: 303-331-3832
+        A: 3 Jackson Circle, Denver, Colorado 80235
+        DOB: 11/21/2002
+        GPA: 3.61
+        Start Date: 10/24/2018
+
+    BIO19 Marine Biology
+        Session: C_a8
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+48. Sophie Bianca Bowskill (S_vbaa)
+        E: bbowskill1b@g.co
+        T: 352-757-7084
+        A: 0 Lotheville Park, Ocala, Florida 34474
+        DOB: 06/05/2003
+        GPA: 2.65
+        Start Date: 01/09/2020
+
+    BIO19 Marine Biology
+        Session: C_a8
+    BUS10 Business Statistics
+        Session: C_b1
+    MATH3C Analytic Geometry and Calculus III
+        Session: C_c9
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+49. Jeff Rustie Andersch (S_wbaa)
+        E: randersch1c@gravatar.com
+        T: 319-898-1053
+        A: 020 Milwaukee Point, Waterloo, Iowa 50706
+        DOB: 02/03/2000
+        GPA: 2.1
+        Start Date: 12/18/2020
+
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    CHEM1A General Chemistry I
+        Session: C_b2
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+50. Conny Aldric Figgess (S_xbaa)
+        E: afiggess1d@google.co.jp
+        T: 646-304-9343
+        A: 8510 Westridge Point, Brooklyn, New-York 11215
+        DOB: 02/03/2001
+        GPA: 3.73
+        Start Date: 05/10/2019
+
+    PHYS4A General Physics I
+        Session: C_d2
+    MATH3C Analytic Geometry and Calculus III
+        Session: C_c9
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+
+
+51. Prentiss Karoline Yexley (S_ybaa)
+        E: kyexley1e@csmonitor.com
+        T: 304-590-6090
+        A: 6694 Cardinal Hill, Charleston, West-Virginia 25305
+        DOB: 07/06/2002
+        GPA: 3.92
+        Start Date: 09/27/2017
+
+    CS3A Computer Organization and Machine Language
+        Session: C_c2
+    PHYS4A General Physics I
+        Session: C_d2
+
+
+52. Bonnie Pansy Fitchell (S_zbaa)
+        E: pfitchell1f@buzzfeed.com
+        T: 415-665-0554
+        A: 78 Mariners Cove Terrace, San Francisco, California 94142
+        DOB: 03/06/2000
+        GPA: 3.85
+        Start Date: 08/12/2018
+
+    CHEM1B General Chemistry II
+        Session: C_b4
+    PHYS4A General Physics I
+        Session: C_d2
+    CS1B Introduction to Computer Science II
+        Session: C_b9
+
+
+53. Gwendolin Reiko Raddin (S_abaa)
+        E: rraddin1g@oracle.com
+        T: 508-368-8761
+        A: 581 Talisman Terrace, Brockton, Massachusetts 2405
+        DOB: 03/19/2002
+        GPA: 2.86
+        Start Date: 09/07/2019
+
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+    BUS10 Business Statistics
+        Session: C_b1
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+
+
+54. Dianne Dulce Corthes (S_bbaa)
+        E: dcorthes1h@storify.com
+        T: 504-751-9296
+        A: 3 Florence Terrace, New Orleans, Louisiana 70183
+        DOB: 05/21/2000
+        GPA: 2.28
+        Start Date: 12/20/2019
+
+    BUS1 Introduction to Business
+        Session: C_b0
+    PHYS2A Introduction to Physics
+        Session: C_d1
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+55. Kassia Dalt Bigg (S_cbaa)
+        E: dbigg1i@dailymotion.com
+        T: 770-870-0720
+        A: 23 Dahle Circle, Decatur, Georgia 30089
+        DOB: 04/28/2001
+        GPA: 2.48
+        Start Date: 10/30/2017
+
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+    PHYS4A General Physics I
+        Session: C_d2
+    BIO15 General Microbiology
+        Session: C_a6
+
+
+56. Ambrosi Dacia Chesnay (S_dbaa)
+        E: dchesnay1j@dedecms.com
+        T: 203-431-3570
+        A: 1 Muir Hill, Waterbury, Connecticut 6726
+        DOB: 12/30/2002
+        GPA: 3.71
+        Start Date: 10/10/2019
+
+    BIO4B Principles of Organismal Biology
+        Session: C_a4
+    CS1C Introduction to Computer Science III
+        Session: C_c0
+    CHEM1A General Chemistry I
+        Session: C_b2
+    ENG1B Principles of Composition II
+        Session: C_c5
+
+
+57. Janel Cleon Spenley (S_ebaa)
+        E: cspenley1k@t.co
+        T: 212-211-8919
+        A: 794 Annamark Street, New York City, New-York 10024
+        DOB: 02/28/2002
+        GPA: 3.58
+        Start Date: 03/09/2022
+
+    ENG1A Principles of Composition I
+        Session: C_c4
+    PHYS4A General Physics I
+        Session: C_d2
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+58. Maxie Bev McConnal (S_fbaa)
+        E: bmcconnal1l@umich.edu
+        T: 260-152-1682
+        A: 78726 Ilene Parkway, Fort Wayne, Indiana 46825
+        DOB: 09/12/2003
+        GPA: 2.73
+        Start Date: 08/04/2019
+
+    ENG1A Principles of Composition I
+        Session: C_c4
+    BUS1 Introduction to Business
+        Session: C_b0
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+
+
+59. Kathleen Yardley Mugford (S_gbaa)
+        E: ymugford1m@canalblog.com
+        T: 585-541-6320
+        A: 42 Prairieview Lane, Rochester, New-York 14639
+        DOB: 08/19/2003
+        GPA: 3.88
+        Start Date: 12/31/2017
+
+    BUS10 Business Statistics
+        Session: C_b1
+    CS3B Computer Organization and Assembly Language
+        Session: C_c3
+    ENG1A Principles of Composition I
+        Session: C_c4
+    BIO15 General Microbiology
+        Session: C_a6
+
+
+60. Robinette Nissy Bultitude (S_hbaa)
+        E: nbultitude1n@forbes.com
+        T: 859-655-5535
+        A: 3 Hanover Place, Lexington, Kentucky 40505
+        DOB: 04/22/2000
+        GPA: 3.0
+        Start Date: 10/23/2018
+
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    BIO15 General Microbiology
+        Session: C_a6
+    CHEM3 Fundamental Chemistry
+        Session: C_b7
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+61. Feodora Leonardo Ablott (S_ibaa)
+        E: lablott1o@tamu.edu
+        T: 415-311-6268
+        A: 207 Park Meadow Court, San Francisco, California 94137
+        DOB: 05/04/2003
+        GPA: 3.64
+        Start Date: 05/19/2018
+
+    BUS10 Business Statistics
+        Session: C_b1
+    CS1B Introduction to Computer Science II
+        Session: C_b9
+    BIO4A Principles of Cellular Biology
+        Session: C_a3
+
+
+62. Vanessa David Giabuzzi (S_jbaa)
+        E: dgiabuzzi1p@state.gov
+        T: 316-950-2148
+        A: 604 Algoma Avenue, Wichita, Kansas 67236
+        DOB: 06/28/2002
+        GPA: 2.23
+        Start Date: 09/30/2022
+
+    CS1C Introduction to Computer Science III
+        Session: C_c0
+    BIO4A Principles of Cellular Biology
+        Session: C_a2
+
+
+63. Stevy Townie Ponceford (S_kbaa)
+        E: tponceford1q@linkedin.com
+        T: 904-408-3387
+        A: 214 Rowland Crossing, Jacksonville, Florida 32225
+        DOB: 12/08/2003
+        GPA: 2.78
+        Start Date: 11/05/2018
+
+    CHEM1A General Chemistry I
+        Session: C_b2
+    CS1B Introduction to Computer Science II
+        Session: C_b9
+    CHEM3 Fundamental Chemistry
+        Session: C_b7
+
+
+64. Sasha Renata Gossage (S_lbaa)
+        E: rgossage1r@omniture.com
+        T: 713-952-8563
+        A: 19 Judy Circle, Houston, Texas 77299
+        DOB: 07/05/2000
+        GPA: 3.15
+        Start Date: 10/15/2022
+
+    PHYS4A General Physics I
+        Session: C_d2
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+    BUS10 Business Statistics
+        Session: C_b1
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+
+
+65. Vivyan Lesli Bealing (S_mbaa)
+        E: lbealing1s@princeton.edu
+        T: 816-570-4818
+        A: 4836 Anthes Junction, Independence, Missouri 64054
+        DOB: 06/09/2003
+        GPA: 2.29
+        Start Date: 04/14/2022
+
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+66. Maurene Daphne Helgass (S_nbaa)
+        E: dhelgass1t@disqus.com
+        T: 716-100-9551
+        A: 7118 Stone Corner Lane, Buffalo, New-York 14276
+        DOB: 11/20/2002
+        GPA: 2.46
+        Start Date: 06/26/2019
+
+    CS1C Introduction to Computer Science III
+        Session: C_c0
+    CHEM1A General Chemistry I
+        Session: C_b2
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+    ENG1B Principles of Composition II
+        Session: C_c5
+
+
+67. Gal Murial Stelfax (S_obaa)
+        E: mstelfax1u@merriam-webster.com
+        T: 612-943-6324
+        A: 06043 Mcguire Park, Minneapolis, Minnesota 55448
+        DOB: 07/07/2000
+        GPA: 2.97
+        Start Date: 09/12/2017
+
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    BIO19 Marine Biology
+        Session: C_a8
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+68. Elvera Jennie Drillot (S_pbaa)
+        E: jdrillot1v@woothemes.com
+        T: 763-463-0172
+        A: 4581 Farragut Way, Loretto, Minnesota 55598
+        DOB: 01/19/2000
+        GPA: 2.06
+        Start Date: 07/06/2020
+
+    CS3A Computer Organization and Machine Language
+        Session: C_c2
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+69. Myriam Corly Nickels (S_qbaa)
+        E: cnickels1w@hostgator.com
+        T: 864-390-3026
+        A: 2740 Sycamore Drive, Anderson, South-Carolina 29625
+        DOB: 11/29/2002
+        GPA: 2.59
+        Start Date: 04/22/2019
+
+    BIO4B Principles of Organismal Biology
+        Session: C_a4
+    CS3B Computer Organization and Assembly Language
+        Session: C_c3
+    ENG1B Principles of Composition II
+        Session: C_c5
+
+
+70. Oran Fulton Beeson (S_rbaa)
+        E: fbeeson1x@hostgator.com
+        T: 352-920-1979
+        A: 99721 Acker Center, Ocala, Florida 34479
+        DOB: 06/26/2001
+        GPA: 2.07
+        Start Date: 05/27/2018
+
+    BIO15 General Microbiology
+        Session: C_a6
+    ENG1B Principles of Composition II
+        Session: C_c5
+    CS1A Introduction to Computer Science I
+        Session: C_b8
+    BUS1 Introduction to Business
+        Session: C_b0
+
+
+71. Patrick Amii Aharoni (S_sbaa)
+        E: aaharoni1y@meetup.com
+        T: 214-572-2438
+        A: 66 Ohio Lane, Dallas, Texas 75387
+        DOB: 04/15/2003
+        GPA: 2.54
+        Start Date: 04/26/2019
+
+    CS1C Introduction to Computer Science III
+        Session: C_c0
+    MATH2 Pre Calculus Mathematics
+        Session: C_c6
+
+
+72. De-witt Cordelie Muro (S_tbaa)
+        E: cmuro1z@twitpic.com
+        T: 916-120-8819
+        A: 52813 Hallows Lane, Sacramento, California 95838
+        DOB: 09/21/2002
+        GPA: 2.3
+        Start Date: 05/09/2021
+
+    CHEM1A General Chemistry I
+        Session: C_b2
+    BIO15 General Microbiology
+        Session: C_a6
+    BUS10 Business Statistics
+        Session: C_b1
+
+
+73. Onida Larisa Wims (S_ubaa)
+        E: lwims20@zdnet.com
+        T: 860-375-5124
+        A: 30003 Holmberg Hill, Hartford, Connecticut 6120
+        DOB: 05/14/2000
+        GPA: 3.44
+        Start Date: 04/30/2018
+
+    ENG1A Principles of Composition I
+        Session: C_c4
+    PHYS2A Introduction to Physics
+        Session: C_d1
+
+
+74. Armstrong Gillie Work (S_vbaa)
+        E: gwork21@redcross.org
+        T: 316-743-6702
+        A: 488 Esker Park, Wichita, Kansas 67230
+        DOB: 07/14/2003
+        GPA: 2.43
+        Start Date: 01/20/2022
+
+    BIO3C Biochemistry and Molecular Biology
+        Session: C_a0
+    BUS1 Introduction to Business
+        Session: C_b0
+    CHEM1A General Chemistry I
+        Session: C_b2
+
+
+75. Lyssa Gianina Gateshill (S_wbaa)
+        E: ggateshill22@drupal.org
+        T: 910-740-1440
+        A: 9155 Manitowish Lane, Fayetteville, North-Carolina 28314
+        DOB: 11/01/2002
+        GPA: 3.48
+        Start Date: 08/06/2021
+
+    MATH10 Introduction to Statistics
+        Session: C_d0
+    CHEM1B General Chemistry II
+        Session: C_b5

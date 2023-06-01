@@ -1,0 +1,37 @@
+
+C:\JavaProjects>java Application/Main
+How would you like to generate student and faculty IDs?
+    1. Numerically
+    2. Alphabetically
+    3. AlphaNumerically
+>>> 2
+
+How would you like to generate session IDs?
+    1. Numerically
+    2. Alphabetically
+    3. AlphaNumerically
+>>> 3
+
+Student info filename: InputData\students\studentData02.txt
+Schedule info filename: InputData\schedule\scheduleData02.txt
+Faculty info filename: InputData\faculty\facultyData02.txt
+Session info filename: InputData\session\sessionData02.txt
+Course info filename: InputData\course\courseData02.txt
+
+
+How would you like to schedule classes?
+    1. Assign students to courses based on the order of their desired classes.
+       Add faculty members sequentially to sessions.
+       Cancel any courses that have not been assigned a professor or do not have enough students.
+    2. Add faculty members sequentially to sessions.
+       Add a student to all desired classes if there is space.
+       Cancel any courses that have not been assigned a professor or do not have enough students.
+>>> 1
+
+
+Total Students:                  75
+Total Faculty:                   25
+Total Courses:                   25
+Total Sessions Scheduled:        25
+Total Courses Unscheduled:       3
+Total Students With No Classes:  0

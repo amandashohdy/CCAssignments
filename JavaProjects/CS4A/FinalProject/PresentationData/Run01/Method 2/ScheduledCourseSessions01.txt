@@ -1,0 +1,232 @@
+Scheduled Courses
+------------------
+
+
+1. BIO3C Biochemistry-and-Molecular-Biology
+
+    Session: C_1000
+      Professor Lauri Gilburt Goalby (F_aaaa)
+        13 Students: 
+          Shirleen Bing Eslie (S_aaaa) 
+          Felipa Terry Bath (S_gaaa) 
+          Odelia Armin McIlheran (S_jaaa) 
+          Faythe Judie Outright (S_laaa) 
+          Dewitt Jobi Ludl (S_maaa) 
+          Paige Lorinda Pollicott (S_naaa) 
+          Tanner Wandis Cleugher (S_waaa) 
+          Eamon Kailey Linnett (S_zaaa) 
+          Jada Kare Dennehy (S_cbaa) 
+          Salomon Nicol Dawltrey (S_hbaa) 
+          Arlinda York Koche (S_kbaa) 
+          Ignaz Dinny Nesterov (S_lbaa) 
+          Kelly Elia Whayman (S_sbaa) 
+
+
+2. BIO4A Principles-of-Cellular-Biology
+
+    Session: C_1015
+      Professor Beulah Germaine Crombie (F_daaa)
+        15 Students: 
+          Barnie Karrie Dillistone (S_baaa) 
+          Adelind Hagan Morstatt (S_faaa) 
+          Lorant Papagena Titterrell (S_kaaa) 
+          Lorant Papagena Titterrell (S_kaaa) 
+          Hughie Jonas Haggarty (S_paaa) 
+          Fania Artie Edgcombe (S_saaa) 
+          Carroll Joby Yanukhin (S_vaaa) 
+          Kippy Kati Pavey (S_xaaa) 
+          Lizbeth Ileana Maase (S_abaa) 
+          Say Ericka Agg (S_dbaa) 
+          Say Ericka Agg (S_dbaa) 
+          Thia Nathan Crighton (S_fbaa) 
+          Rafaelia Timothee Pentin (S_mbaa) 
+          Stephanus Noni Macauley (S_rbaa) 
+          Niel Earle Firk (S_tbaa) 
+
+
+3. BIO4B Principles-of-Organismal-Biology
+
+    Session: C_1030
+      Professor Lorrayne Amalia Phillot (F_haaa)
+        11 Students: 
+          Aura Darby Peregrine (S_daaa) 
+          Vidovik Stuart Wedge (S_eaaa) 
+          Paige Lorinda Pollicott (S_naaa) 
+          Minna Chaim Guynemer (S_raaa) 
+          Glenden Rivy Mathou (S_uaaa) 
+          Sibella Antin Brinded (S_yaaa) 
+          Jada Kare Dennehy (S_cbaa) 
+          Lane Debor Lethbridge (S_gbaa) 
+          Pavla Walther Bullerwell (S_obaa) 
+          Abbie Peter McNalley (S_qbaa) 
+          Nefen Juline Yeo (S_ubaa) 
+
+
+4. BIO15 General-Microbiology
+
+    Session: C_1045
+      Professor Eada Sheff Phinnessy (F_laaa)
+        16 Students: 
+          Shirleen Bing Eslie (S_aaaa) 
+          Vidovik Stuart Wedge (S_eaaa) 
+          Lorant Papagena Titterrell (S_kaaa) 
+          Dewitt Jobi Ludl (S_maaa) 
+          Sarena Rowan Marunchak (S_oaaa) 
+          Minna Chaim Guynemer (S_raaa) 
+          Carroll Joby Yanukhin (S_vaaa) 
+          Tanner Wandis Cleugher (S_waaa) 
+          Sibella Antin Brinded (S_yaaa) 
+          Eamon Kailey Linnett (S_zaaa) 
+          Say Ericka Agg (S_dbaa) 
+          Eugenio Bartlett de-Guise (S_ebaa) 
+          Pavla Walther Bullerwell (S_obaa) 
+          Stephanus Noni Macauley (S_rbaa) 
+          Kelly Elia Whayman (S_sbaa) 
+          Nefen Juline Yeo (S_ubaa) 
+
+
+5. BIO19 Marine-Biology
+
+    Session: C_1060
+      Professor Gay Emmett Orht (F_paaa)
+        12 Students: 
+          Barnie Karrie Dillistone (S_baaa) 
+          Adelind Hagan Morstatt (S_faaa) 
+          Vita Glenda Silveston (S_haaa) 
+          Odelia Armin McIlheran (S_jaaa) 
+          Hughie Jonas Haggarty (S_paaa) 
+          Cosme Felisha Raund (S_taaa) 
+          Lizbeth Ileana Maase (S_abaa) 
+          Thia Nathan Crighton (S_fbaa) 
+          Oralle Arlana Doggrell (S_ibaa) 
+          Arlinda York Koche (S_kbaa) 
+          Rafaelia Timothee Pentin (S_mbaa) 
+          Hinze Rebekkah Briddock (S_pbaa) 
+
+
+6. BUS1 Introduction-to-Business
+
+    Session: C_1075
+      Professor Lyndy Port Perotti (F_saaa)
+        17 Students: 
+          Shirleen Bing Eslie (S_aaaa) 
+          Vidovik Stuart Wedge (S_eaaa) 
+          Vita Glenda Silveston (S_haaa) 
+          Dewitt Jobi Ludl (S_maaa) 
+          Paige Lorinda Pollicott (S_naaa) 
+          Lynde Magda Menichini (S_qaaa) 
+          Cosme Felisha Raund (S_taaa) 
+          Tanner Wandis Cleugher (S_waaa) 
+          Sibella Antin Brinded (S_yaaa) 
+          Eamon Kailey Linnett (S_zaaa) 
+          Jada Kare Dennehy (S_cbaa) 
+          Oralle Arlana Doggrell (S_ibaa) 
+          Korie Francesco Rossetti (S_nbaa) 
+          Hinze Rebekkah Briddock (S_pbaa) 
+          Kelly Elia Whayman (S_sbaa) 
+          Nefen Juline Yeo (S_ubaa) 
+          Madlen Sharon Torbet (S_vbaa) 
+
+
+7. BUS10 Business-Statistics
+
+    Session: C_1087
+      Professor Kim Andonis Diche (F_vaaa)
+        19 Students: 
+          Vincenz Selby Worpole (S_caaa) 
+          Aura Darby Peregrine (S_daaa) 
+          Adelind Hagan Morstatt (S_faaa) 
+          Felipa Terry Bath (S_gaaa) 
+          Donnie Jobyna Ingerith (S_iaaa) 
+          Hughie Jonas Haggarty (S_paaa) 
+          Fania Artie Edgcombe (S_saaa) 
+          Carroll Joby Yanukhin (S_vaaa) 
+          Kippy Kati Pavey (S_xaaa) 
+          Lizbeth Ileana Maase (S_abaa) 
+          Felisha Sim Puncher (S_bbaa) 
+          Lane Debor Lethbridge (S_gbaa) 
+          Salomon Nicol Dawltrey (S_hbaa) 
+          Alysa Jyoti Ryding (S_jbaa) 
+          Rafaelia Timothee Pentin (S_mbaa) 
+          Stephanus Noni Macauley (S_rbaa) 
+          Niel Earle Firk (S_tbaa) 
+          Lindy Aaren McTrusty (S_wbaa) 
+          Dehlia Milli Kirstein (S_xbaa) 
+
+
+8. CHEM1A General-Chemistry-I
+
+    Session: C_1099
+      Professor Rosabel Flori Rosewarne (F_yaaa)
+        13 Students: 
+          Shirleen Bing Eslie (S_aaaa) 
+          Lorant Papagena Titterrell (S_kaaa) 
+          Faythe Judie Outright (S_laaa) 
+          Paige Lorinda Pollicott (S_naaa) 
+          Lynde Magda Menichini (S_qaaa) 
+          Glenden Rivy Mathou (S_uaaa) 
+          Eamon Kailey Linnett (S_zaaa) 
+          Jada Kare Dennehy (S_cbaa) 
+          Say Ericka Agg (S_dbaa) 
+          Ignaz Dinny Nesterov (S_lbaa) 
+          Korie Francesco Rossetti (S_nbaa) 
+          Abbie Peter McNalley (S_qbaa) 
+          Dehlia Milli Kirstein (S_xbaa) 
+
+
+9. CHEM1B General-Chemistry-II
+
+    Session: C_1115
+      Professor Philomena Sigrid Cellier (F_cbaa)
+        12 Students: 
+          Vincenz Selby Worpole (S_caaa) 
+          Felipa Terry Bath (S_gaaa) 
+          Donnie Jobyna Ingerith (S_iaaa) 
+          Sarena Rowan Marunchak (S_oaaa) 
+          Minna Chaim Guynemer (S_raaa) 
+          Glenden Rivy Mathou (S_uaaa) 
+          Felisha Sim Puncher (S_bbaa) 
+          Eugenio Bartlett de-Guise (S_ebaa) 
+          Salomon Nicol Dawltrey (S_hbaa) 
+          Alysa Jyoti Ryding (S_jbaa) 
+          Pavla Walther Bullerwell (S_obaa) 
+          Abbie Peter McNalley (S_qbaa) 
+
+
+10. CHEM3 Fundamental-Chemistry
+
+    Session: C_1131
+      Professor Bruce Broderic Muldoon (F_gbaa)
+        13 Students: 
+          Aura Darby Peregrine (S_daaa) 
+          Adelind Hagan Morstatt (S_faaa) 
+          Odelia Armin McIlheran (S_jaaa) 
+          Dewitt Jobi Ludl (S_maaa) 
+          Lynde Magda Menichini (S_qaaa) 
+          Cosme Felisha Raund (S_taaa) 
+          Tanner Wandis Cleugher (S_waaa) 
+          Lizbeth Ileana Maase (S_abaa) 
+          Lane Debor Lethbridge (S_gbaa) 
+          Arlinda York Koche (S_kbaa) 
+          Korie Francesco Rossetti (S_nbaa) 
+          Hinze Rebekkah Briddock (S_pbaa) 
+          Dehlia Milli Kirstein (S_xbaa) 
+
+
+11. CS1A Introduction-to-Computer-Science-I
+
+    Session: C_1147
+      Professor Daveta Sybyl Simkovich (F_kbaa)
+        12 Students: 
+          Vincenz Selby Worpole (S_caaa) 
+          Donnie Jobyna Ingerith (S_iaaa) 
+          Sarena Rowan Marunchak (S_oaaa) 
+          Glenden Rivy Mathou (S_uaaa) 
+          Felisha Sim Puncher (S_bbaa) 
+          Eugenio Bartlett de-Guise (S_ebaa) 
+          Alysa Jyoti Ryding (S_jbaa) 
+          Abbie Peter McNalley (S_qbaa) 
+          Kelly Elia Whayman (S_sbaa) 
+          Madlen Sharon Torbet (S_vbaa) 
+          Madlen Sharon Torbet (S_vbaa) 
+          Lindy Aaren McTrusty (S_wbaa) 

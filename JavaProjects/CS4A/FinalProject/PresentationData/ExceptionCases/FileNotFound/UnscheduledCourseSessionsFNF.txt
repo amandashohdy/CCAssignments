@@ -1,0 +1,15 @@
+Non-Scheduled Courses
+----------------------
+
+
+1. CS1B Introduction-to-Computer-Science-II
+        Minimum Students: 6
+
+2. CS1C Introduction-to-Computer-Science-III
+        Minimum Students: 8
+
+3. CS1D Data-Structures
+        Minimum Students: 7
+
+4. CS3A Computer-Organization-and-Machine-Language
+        Minimum Students: 5

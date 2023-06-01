@@ -1,0 +1,475 @@
+Faculty Information
+--------------------
+
+
+1. Lauri Gilburt Goalby (F_1000)
+        E: ggoalby0@usnews.com
+        T: 478-625-7259
+        A: 39832 Prairieview Center, Macon, Georgia 31210
+        Hire Date: 06/01/2017
+        Has Tenure: true
+  Faculty Schedule:
+    BIO3C Biochemistry-and-Molecular-Biology
+        Session: C_a0
+            13 Students Enrolled
+
+
+
+
+2. Babs Blaire Davenport (F_1001)
+        E: bdavenport1@people.com.cn
+        T: 918-532-3146
+        A: 222 Spaight Place, Tulsa, Oklahoma 74141
+        Hire Date: 01/31/2023
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+3. Trixi Garrott McLorinan (F_1002)
+        E: gmclorinan2@kickstarter.com
+        T: 859-204-9571
+        A: 737 Darwin Park, Lexington, Kentucky 40515
+        Hire Date: 11/23/2019
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+4. Beulah Germaine Crombie (F_1003)
+        E: gcrombie3@tmall.com
+        T: 202-559-5426
+        A: 96749 Maryland Court, Washington, District-of-Columbia 20088
+        Hire Date: 03/19/2011
+        Has Tenure: true
+  Faculty Schedule:
+    BIO4A Principles-of-Cellular-Biology
+        Session: C_b5
+            15 Students Enrolled
+
+
+
+
+5. Yevette Karin Delgardo (F_1004)
+        E: kdelgardo4@usa.gov
+        T: 818-321-3217
+        A: 9917 Jackson Center, Los Angeles, California 90015
+        Hire Date: 10/07/2017
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+6. Doroteya Margaretha Rigmond (F_1005)
+        E: mrigmond5@flickr.com
+        T: 516-930-2594
+        A: 9 Forest Run Crossing, Great Neck, New-York 11024
+        Hire Date: 11/27/2022
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+7. Blondie Pru Pavie (F_1006)
+        E: ppavie6@exblog.jp
+        T: 615-798-7495
+        A: 00661 School Court, Nashville, Tennessee 37235
+        Hire Date: 06/08/2010
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+8. Lorrayne Amalia Phillot (F_1007)
+        E: aphillot7@merriam-webster.com
+        T: 910-449-2462
+        A: 6 Stephen Junction, Wilmington, North-Carolina 28405
+        Hire Date: 03/11/2014
+        Has Tenure: true
+  Faculty Schedule:
+    BIO4B Principles-of-Organismal-Biology
+        Session: C_d0
+            11 Students Enrolled
+
+
+
+
+9. Dorian Ivonne Piggott (F_1008)
+        E: ipiggott8@aol.com
+        T: 513-418-4450
+        A: 7 Starling Avenue, Cincinnati, Ohio 45208
+        Hire Date: 04/19/2010
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+10. Melisande Debi Farrears (F_1009)
+        E: dfarrears9@google.ru
+        T: 843-990-1049
+        A: 2643 Declaration Terrace, Beaufort, South-Carolina 29905
+        Hire Date: 12/08/2019
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+11. Farleigh Eloise Brackpool (F_1010)
+        E: ebrackpoola@tinyurl.com
+        T: 253-419-9111
+        A: 1 Shelley Lane, Tacoma, Washington 98424
+        Hire Date: 09/25/2014
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+12. Eada Sheff Phinnessy (F_1011)
+        E: sphinnessyb@domainmarket.com
+        T: 830-221-0784
+        A: 2936 Northfield Hill, San Antonio, Texas 78230
+        Hire Date: 07/22/2010
+        Has Tenure: true
+  Faculty Schedule:
+    BIO15 General-Microbiology
+        Session: C_e5
+            16 Students Enrolled
+
+
+
+
+13. Cullin Gusta Janata (F_1012)
+        E: gjanatac@nba.com
+        T: 503-280-7305
+        A: 39323 Hagan Point, Salem, Oregon 97306
+        Hire Date: 10/17/2020
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+14. Kalle Kelsy Brownlow (F_1013)
+        E: kbrownlowd@google.pl
+        T: 773-937-5888
+        A: 64 Oriole Center, Chicago, Illinois 60652
+        Hire Date: 11/16/2012
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+15. Tracy Veronika Veitch (F_1014)
+        E: vveitche@cisco.com
+        T: 318-293-0101
+        A: 58 Arkansas Trail, Shreveport, Louisiana 71115
+        Hire Date: 01/13/2015
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+16. Gay Emmett Orht (F_1015)
+        E: eorhtf@simplemachines.org
+        T: 408-896-0266
+        A: 5829 Carioca Parkway, San Jose, California 95173
+        Hire Date: 11/26/2014
+        Has Tenure: false
+  Faculty Schedule:
+    BIO19 Marine-Biology
+        Session: C_g0
+            12 Students Enrolled
+
+
+
+
+17. Becki Welbie Heads (F_1016)
+        E: wheadsg@elpais.com
+        T: 724-134-2000
+        A: 31 Lotheville Lane, New Castle, Pennsylvania 16107
+        Hire Date: 12/16/2010
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+18. Tracie Denise Eccles (F_1017)
+        E: decclesh@usda.gov
+        T: 202-128-9636
+        A: 0 Coolidge Street, Washington, District-of-Columbia 20508
+        Hire Date: 07/05/2013
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+19. Lyndy Port Perotti (F_1018)
+        E: pperottii@etsy.com
+        T: 313-611-1113
+        A: 139 Hudson Center, Detroit, Michigan 48275
+        Hire Date: 10/25/2014
+        Has Tenure: true
+  Faculty Schedule:
+    BUS1 Introduction-to-Business
+        Session: C_h5
+            17 Students Enrolled
+
+
+
+
+20. Ellwood Una May (F_1019)
+        E: umayj@goo.ne.jp
+        T: 540-520-0893
+        A: 2009 Loftsgordon Street, Roanoke, Virginia 24024
+        Hire Date: 09/05/2016
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+21. Bernelle Malissa Yakobowitch (F_1020)
+        E: myakobowitchk@google.co.uk
+        T: 336-617-9316
+        A: 76080 Quincy Plaza, Winston Salem, North-Carolina 27157
+        Hire Date: 10/11/2020
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+22. Kim Andonis Diche (F_1021)
+        E: adichel@umich.edu
+        T: 210-839-2077
+        A: 461 Menomonie Avenue, San Antonio, Texas 78220
+        Hire Date: 06/11/2010
+        Has Tenure: true
+  Faculty Schedule:
+    BUS10 Business-Statistics
+        Session: C_i7
+            19 Students Enrolled
+
+
+
+
+23. Phillip Essy Gabitis (F_1022)
+        E: egabitism@hugedomains.com
+        T: 617-474-0683
+        A: 130 Ridgeway Parkway, Boston, Massachusetts 2203
+        Hire Date: 03/20/2011
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+24. Del Aeriell D'Alesco (F_1023)
+        E: adalescon@forbes.com
+        T: 361-671-0554
+        A: 449 Evergreen Hill, Corpus Christi, Texas 78405
+        Hire Date: 08/23/2020
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+25. Rosabel Flori Rosewarne (F_1024)
+        E: frosewarneo@liveinternet.ru
+        T: 754-337-3494
+        A: 9169 Jana Alley, Fort Lauderdale, Florida 33355
+        Hire Date: 03/09/2022
+        Has Tenure: false
+  Faculty Schedule:
+    CHEM1A General-Chemistry-I
+        Session: C_j9
+            13 Students Enrolled
+
+
+
+
+26. Gamaliel Marya Andrioli (F_1025)
+        E: mandriolip@icq.com
+        T: 816-413-3068
+        A: 529 Scoville Terrace, Shawnee Mission, Kansas 66210
+        Hire Date: 01/29/2016
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+27. Colene Kipp Broad (F_1026)
+        E: kbroadq@salon.com
+        T: 559-847-2175
+        A: 09 Pierstorff Drive, Visalia, California 93291
+        Hire Date: 06/08/2018
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+28. Elset Carlin Morland (F_1027)
+        E: cmorlandr@tiny.cc
+        T: 585-723-9244
+        A: 33 Crowley Circle, Rochester, New-York 14652
+        Hire Date: 03/09/2015
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+29. Philomena Sigrid Cellier (F_1028)
+        E: scelliers@e-recht24.de
+        T: 702-104-0128
+        A: 6 Ilene Terrace, Las Vegas, Nevada 89130
+        Hire Date: 02/05/2021
+        Has Tenure: false
+  Faculty Schedule:
+    CHEM1B General-Chemistry-II
+        Session: C_l5
+            12 Students Enrolled
+
+
+
+
+30. Rosita Ax Pinn (F_1029)
+        E: apinnt@ted.com
+        T: 312-126-9521
+        A: 82 Brentwood Parkway, Chicago, Illinois 60609
+        Hire Date: 05/12/2019
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+31. Emmy Jaime Blackler (F_1030)
+        E: jblackleru@wired.com
+        T: 850-382-1132
+        A: 0079 Shopko Park, Pensacola, Florida 32526
+        Hire Date: 01/12/2019
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+32. Morten Teodor Pittford (F_1031)
+        E: tpittfordv@dailymail.co.uk
+        T: 312-294-0107
+        A: 11 Colorado Court, Chicago, Illinois 60619
+        Hire Date: 03/17/2015
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+33. Bruce Broderic Muldoon (F_1032)
+        E: bmuldoonw@live.com
+        T: 352-312-3449
+        A: 0 Algoma Lane, Gainesville, Florida 32605
+        Hire Date: 01/27/2023
+        Has Tenure: true
+  Faculty Schedule:
+    CHEM3 Fundamental-Chemistry
+        Session: C_n1
+            13 Students Enrolled
+
+
+
+
+34. Lemar Susannah Richly (F_1033)
+        E: srichlyx@vinaora.com
+        T: 253-644-3933
+        A: 36695 Canary Circle, Seattle, Washington 98166
+        Hire Date: 05/11/2015
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+35. Carlin Merv Guillford (F_1034)
+        E: mguillfordy@comcast.net
+        T: 772-129-3301
+        A: 8 Kipling Point, Vero Beach, Florida 32964
+        Hire Date: 07/03/2010
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+36. Dotti Mile Windeatt (F_1035)
+        E: mwindeattz@senate.gov
+        T: 281-334-2584
+        A: 4 Kinsman Place, Houston, Texas 77050
+        Hire Date: 06/17/2012
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+37. Daveta Sybyl Simkovich (F_1036)
+        E: ssimkovich10@ox.ac.uk
+        T: 717-657-9426
+        A: 8050 Anhalt Terrace, Harrisburg, Pennsylvania 17140
+        Hire Date: 01/14/2023
+        Has Tenure: false
+  Faculty Schedule:
+    CS1A Introduction-to-Computer-Science-I
+        Session: C_o7
+            12 Students Enrolled
+
+
+
+
+38. Jessalyn Eleonore O'Hingerty (F_1037)
+        E: eohingerty11@jalbum.net
+        T: 301-395-7362
+        A: 8 Stone Corner Lane, Bethesda, Maryland 20892
+        Hire Date: 12/17/2019
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+39. Kathleen Lukas Jado (F_1038)
+        E: ljado12@ihg.com
+        T: 303-500-1121
+        A: 31 Hazelcrest Avenue, Littleton, Colorado 80127
+        Hire Date: 01/24/2023
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+40. Zandra Melitta Matkin (F_1039)
+        E: mmatkin13@indiegogo.com
+        T: 937-933-7855
+        A: 9125 4th Park, Dayton, Ohio 45454
+        Hire Date: 08/11/2012
+        Has Tenure: false
+  Faculty Schedule:
+
+

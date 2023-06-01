@@ -1,0 +1,12 @@
+Non-Scheduled Courses
+----------------------
+
+
+1. CS1D Data-Structures
+        Minimum Students: 13
+
+2. MATH3A Analytic-Geometry-and-Calculus-I
+        Minimum Students: 6
+
+3. MATH3B Analytic-Geometry-and-Calculus-II
+        Minimum Students: 10

@@ -1,0 +1,33 @@
+Non-Scheduled Courses
+----------------------
+
+
+1. BIO4A Principles-of-Cellular-Biology
+        Minimum Students: 12
+
+2. BIO15 General-Microbiology
+        Minimum Students: 15
+
+3. CHEM1B General-Chemistry-II
+        Minimum Students: 13
+
+4. CS1A Introduction-to-Computer-Science-I
+        Minimum Students: 15
+
+5. CS3B Computer-Organization-and-Assembly-Language
+        Minimum Students: 15
+
+6. MATH3A Analytic-Geometry-and-Calculus-I
+        Minimum Students: 13
+
+7. MATH3B Analytic-Geometry-and-Calculus-II
+        Minimum Students: 15
+
+8. MATH10 Introduction-to-Statistics
+        Minimum Students: 15
+
+9. PHYS2A Introduction-to-Physics
+        Minimum Students: 15
+
+10. PSYC3 Biological-Psychology
+        Minimum Students: 15

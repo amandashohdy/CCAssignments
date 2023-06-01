@@ -1,0 +1,352 @@
+Faculty Information
+--------------------
+
+
+1. Lani Justine Docksey (F_aaaa)
+        E: jdocksey27@sogou.com
+        T: 404-702-7241
+        A: 75251 Havey Court, Atlanta, Georgia 31196
+        Hire Date: 04/09/2014
+        Has Tenure: false
+  Faculty Schedule:
+    BIO3C Biochemistry-and-Molecular-Biology
+        Session: C_a0
+            9 Students Enrolled
+
+
+
+
+2. Giavani De Woltman (F_baaa)
+        E: dwoltman28@spiegel.de
+        T: 501-311-2821
+        A: 7 Weeping Birch Junction, Little Rock, Arkansas 72231
+        Hire Date: 04/03/2015
+        Has Tenure: false
+  Faculty Schedule:
+    BIO4A Principles-of-Cellular-Biology
+        Session: C_a2
+            10 Students Enrolled
+    BIO4A Principles-of-Cellular-Biology
+        Session: C_a3
+            10 Students Enrolled
+
+
+
+
+3. Justino Blane Spores (F_caaa)
+        E: bspores29@cnn.com
+        T: 504-641-1192
+        A: 050 Riverside Drive, New Orleans, Louisiana 70179
+        Hire Date: 02/15/2022
+        Has Tenure: true
+  Faculty Schedule:
+    BIO4B Principles-of-Organismal-Biology
+        Session: C_a4
+            7 Students Enrolled
+
+
+
+
+4. Nikolia Bird Wanstall (F_daaa)
+        E: bwanstall2a@oaic.gov.au
+        T: 571-606-9140
+        A: 04318 5th Way, Arlington, Virginia 22244
+        Hire Date: 04/06/2022
+        Has Tenure: true
+  Faculty Schedule:
+    BIO15 General-Microbiology
+        Session: C_a6
+            11 Students Enrolled
+
+
+
+
+5. Othilia Lyell Sidery (F_eaaa)
+        E: lsidery2b@bloglines.com
+        T: 803-299-1672
+        A: 58863 Barnett Place, Columbia, South-Carolina 29215
+        Hire Date: 06/21/2011
+        Has Tenure: false
+  Faculty Schedule:
+    BIO19 Marine-Biology
+        Session: C_a8
+            10 Students Enrolled
+
+
+
+
+6. Gaby Christophe Farndon (F_faaa)
+        E: cfarndon2c@fastcompany.com
+        T: 215-406-8115
+        A: 54 Longview Place, Philadelphia, Pennsylvania 19131
+        Hire Date: 11/24/2012
+        Has Tenure: false
+  Faculty Schedule:
+    BUS1 Introduction-to-Business
+        Session: C_b0
+            17 Students Enrolled
+    BUS10 Business-Statistics
+        Session: C_b1
+            13 Students Enrolled
+
+
+
+
+7. Shari Bianka Freiberg (F_gaaa)
+        E: bfreiberg2d@canalblog.com
+        T: 513-822-0371
+        A: 0345 Mandrake Terrace, Cincinnati, Ohio 45999
+        Hire Date: 11/20/2021
+        Has Tenure: true
+  Faculty Schedule:
+    CHEM1A General-Chemistry-I
+        Session: C_b2
+            19 Students Enrolled
+
+
+
+
+8. Bonnee Tucker Jerdon (F_haaa)
+        E: tjerdon2e@youku.com
+        T: 772-537-4358
+        A: 44707 Goodland Point, Vero Beach, Florida 32964
+        Hire Date: 09/09/2012
+        Has Tenure: false
+  Faculty Schedule:
+    CHEM1B General-Chemistry-II
+        Session: C_b4
+            4 Students Enrolled
+    CHEM1B General-Chemistry-II
+        Session: C_b5
+            4 Students Enrolled
+
+
+
+
+9. Randy Pia Mixon (F_iaaa)
+        E: pmixon2f@bigcartel.com
+        T: 509-120-3454
+        A: 4 Birchwood Court, Yakima, Washington 98907
+        Hire Date: 10/13/2014
+        Has Tenure: false
+  Faculty Schedule:
+    CHEM3 Fundamental-Chemistry
+        Session: C_b6
+            5 Students Enrolled
+    CHEM3 Fundamental-Chemistry
+        Session: C_b7
+            5 Students Enrolled
+
+
+
+
+10. Hasty Hynda Glover (F_jaaa)
+        E: hglover2g@sciencedirect.com
+        T: 865-698-0266
+        A: 35 Nova Terrace, Knoxville, Tennessee 37939
+        Hire Date: 07/11/2016
+        Has Tenure: true
+  Faculty Schedule:
+    CS1A Introduction-to-Computer-Science-I
+        Session: C_b8
+            10 Students Enrolled
+    CS1B Introduction-to-Computer-Science-II
+        Session: C_b9
+            7 Students Enrolled
+
+
+
+
+11. Angeline Leilah Stegel (F_kaaa)
+        E: lstegel2h@stanford.edu
+        T: 312-157-1027
+        A: 955 Haas Park, Chicago, Illinois 60674
+        Hire Date: 02/01/2020
+        Has Tenure: false
+  Faculty Schedule:
+    CS1C Introduction-to-Computer-Science-III
+        Session: C_c0
+            7 Students Enrolled
+
+
+
+
+12. Dalenna Ginnifer Dymidowicz (F_laaa)
+        E: gdymidowicz2i@pagesperso-orange.fr
+        T: 571-944-2938
+        A: 4813 Brickson Park Avenue, Alexandria, Virginia 22333
+        Hire Date: 01/01/2013
+        Has Tenure: true
+  Faculty Schedule:
+    CS3A Computer-Organization-and-Machine-Language
+        Session: C_c2
+            6 Students Enrolled
+    CS3B Computer-Organization-and-Assembly-Language
+        Session: C_c3
+            5 Students Enrolled
+
+
+
+
+13. Arty Berta Wordesworth (F_maaa)
+        E: bwordesworth2j@lulu.com
+        T: 910-794-9810
+        A: 919 Stuart Drive, Wilmington, North-Carolina 28405
+        Hire Date: 04/25/2013
+        Has Tenure: true
+  Faculty Schedule:
+    ENG1A Principles-of-Composition-I
+        Session: C_c4
+            12 Students Enrolled
+    ENG1B Principles-of-Composition-II
+        Session: C_c5
+            8 Students Enrolled
+
+
+
+
+14. Emlynne Maureen Sired (F_naaa)
+        E: msired2k@mediafire.com
+        T: 786-296-3297
+        A: 67 Hintze Center, Miami, Florida 33134
+        Hire Date: 05/31/2015
+        Has Tenure: false
+  Faculty Schedule:
+    MATH2 Pre-Calculus-Mathematics
+        Session: C_c6
+            14 Students Enrolled
+
+
+
+
+15. Blayne Bradney Faveryear (F_oaaa)
+        E: bfaveryear2l@bravesites.com
+        T: 208-871-2422
+        A: 1 Jackson Pass, Boise, Idaho 83711
+        Hire Date: 02/26/2012
+        Has Tenure: false
+  Faculty Schedule:
+    MATH3C Analytic-Geometry-and-Calculus-III
+        Session: C_c9
+            7 Students Enrolled
+
+
+
+
+16. Elias Pamela Crossfeld (F_paaa)
+        E: pcrossfeld2m@nba.com
+        T: 208-640-9072
+        A: 623 Comanche Drive, Pocatello, Idaho 83206
+        Hire Date: 09/09/2022
+        Has Tenure: true
+  Faculty Schedule:
+    MATH10 Introduction-to-Statistics
+        Session: C_d0
+            9 Students Enrolled
+    PHYS2A Introduction-to-Physics
+        Session: C_d1
+            10 Students Enrolled
+
+
+
+
+17. Genovera Elvin Mcwhinney (F_qaaa)
+        E: emcwhinney2n@businesswire.com
+        T: 318-798-1435
+        A: 069 Corben Junction, Shreveport, Louisiana 71166
+        Hire Date: 02/08/2018
+        Has Tenure: false
+  Faculty Schedule:
+    PHYS4A General-Physics-I
+        Session: C_d2
+            10 Students Enrolled
+
+
+
+
+18. Franklyn Mycah Lawrance (F_raaa)
+        E: mlawrance2o@wordpress.org
+        T: 310-916-4550
+        A: 46327 Mariners Cove Terrace, Los Angeles, California 90010
+        Hire Date: 07/01/2021
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+19. Elsa Aubine Baudone (F_saaa)
+        E: abaudone2p@ted.com
+        T: 304-910-4151
+        A: 56787 Bobwhite Place, Charleston, West-Virginia 25389
+        Hire Date: 01/21/2015
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+20. Quill Paulo Fackrell (F_taaa)
+        E: pfackrell2q@ow.ly
+        T: 612-170-1506
+        A: 77256 Northport Place, Minneapolis, Minnesota 55480
+        Hire Date: 03/01/2015
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+21. Marrissa Otho Honnicott (F_uaaa)
+        E: ohonnicott2r@npr.org
+        T: 540-118-9130
+        A: 5386 Arkansas Drive, Roanoke, Virginia 24034
+        Hire Date: 12/17/2021
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+22. Krissy Pietrek Tresvina (F_vaaa)
+        E: ptresvina23@fc2.com
+        T: 202-921-4509
+        A: 56 Mallard Alley, Washington, District-of-Columbia 20022
+        Hire Date: 10/10/2018
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+23. Sela Matelda Eccles (F_waaa)
+        E: meccles24@smugmug.com
+        T: 502-624-4463
+        A: 6 Pankratz Park, Migrate, Kentucky 41905
+        Hire Date: 02/02/2010
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+24. Frasquito Lem Boxen (F_xaaa)
+        E: lboxen25@pcworld.com
+        T: 406-335-9636
+        A: 6 Sunfield Point, Helena, Montana 59623
+        Hire Date: 07/29/2018
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+25. Tabbatha Guthrey Le-Batteur (F_yaaa)
+        E: glebatteur26@photobucket.com
+        T: 361-618-2232
+        A: 8 Spenser Parkway, Corpus Christi, Texas 78405
+        Hire Date: 03/06/2016
+        Has Tenure: true
+  Faculty Schedule:
+
+

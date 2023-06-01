@@ -1,0 +1,232 @@
+Scheduled Courses
+------------------
+
+
+1. BIO3C Biochemistry-and-Molecular-Biology
+
+    Session: C_a0
+      Professor Lauri Gilburt Goalby (F_1000)
+        13 Students: 
+          Shirleen Bing Eslie (S_1000) 
+          Dewitt Jobi Ludl (S_1012) 
+          Tanner Wandis Cleugher (S_1022) 
+          Eamon Kailey Linnett (S_1025) 
+          Kelly Elia Whayman (S_1044) 
+          Felipa Terry Bath (S_1006) 
+          Salomon Nicol Dawltrey (S_1033) 
+          Faythe Judie Outright (S_1011) 
+          Ignaz Dinny Nesterov (S_1037) 
+          Odelia Armin McIlheran (S_1009) 
+          Paige Lorinda Pollicott (S_1013) 
+          Jada Kare Dennehy (S_1028) 
+          Arlinda York Koche (S_1036) 
+
+
+2. BIO4A Principles-of-Cellular-Biology
+
+    Session: C_b5
+      Professor Beulah Germaine Crombie (F_1003)
+        15 Students: 
+          Barnie Karrie Dillistone (S_1001) 
+          Adelind Hagan Morstatt (S_1005) 
+          Lorant Papagena Titterrell (S_1010) 
+          Hughie Jonas Haggarty (S_1015) 
+          Lizbeth Ileana Maase (S_1026) 
+          Say Ericka Agg (S_1029) 
+          Thia Nathan Crighton (S_1031) 
+          Rafaelia Timothee Pentin (S_1038) 
+          Fania Artie Edgcombe (S_1018) 
+          Kippy Kati Pavey (S_1023) 
+          Niel Earle Firk (S_1045) 
+          Carroll Joby Yanukhin (S_1021) 
+          Stephanus Noni Macauley (S_1043) 
+          Lorant Papagena Titterrell (S_1010) 
+          Say Ericka Agg (S_1029) 
+
+
+3. BIO4B Principles-of-Organismal-Biology
+
+    Session: C_d0
+      Professor Lorrayne Amalia Phillot (F_1007)
+        11 Students: 
+          Aura Darby Peregrine (S_1003) 
+          Lane Debor Lethbridge (S_1032) 
+          Minna Chaim Guynemer (S_1017) 
+          Glenden Rivy Mathou (S_1020) 
+          Pavla Walther Bullerwell (S_1040) 
+          Abbie Peter McNalley (S_1042) 
+          Vidovik Stuart Wedge (S_1004) 
+          Paige Lorinda Pollicott (S_1013) 
+          Sibella Antin Brinded (S_1024) 
+          Jada Kare Dennehy (S_1028) 
+          Nefen Juline Yeo (S_1046) 
+
+
+4. BIO15 General-Microbiology
+
+    Session: C_e5
+      Professor Eada Sheff Phinnessy (F_1011)
+        16 Students: 
+          Carroll Joby Yanukhin (S_1021) 
+          Stephanus Noni Macauley (S_1043) 
+          Shirleen Bing Eslie (S_1000) 
+          Vidovik Stuart Wedge (S_1004) 
+          Sibella Antin Brinded (S_1024) 
+          Eamon Kailey Linnett (S_1025) 
+          Nefen Juline Yeo (S_1046) 
+          Lorant Papagena Titterrell (S_1010) 
+          Dewitt Jobi Ludl (S_1012) 
+          Sarena Rowan Marunchak (S_1014) 
+          Tanner Wandis Cleugher (S_1022) 
+          Say Ericka Agg (S_1029) 
+          Eugenio Bartlett de-Guise (S_1030) 
+          Kelly Elia Whayman (S_1044) 
+          Minna Chaim Guynemer (S_1017) 
+          Pavla Walther Bullerwell (S_1040) 
+
+
+5. BIO19 Marine-Biology
+
+    Session: C_g0
+      Professor Gay Emmett Orht (F_1015)
+        12 Students: 
+          Odelia Armin McIlheran (S_1009) 
+          Cosme Felisha Raund (S_1019) 
+          Arlinda York Koche (S_1036) 
+          Hinze Rebekkah Briddock (S_1041) 
+          Barnie Karrie Dillistone (S_1001) 
+          Adelind Hagan Morstatt (S_1005) 
+          Lizbeth Ileana Maase (S_1026) 
+          Thia Nathan Crighton (S_1031) 
+          Vita Glenda Silveston (S_1007) 
+          Hughie Jonas Haggarty (S_1015) 
+          Oralle Arlana Doggrell (S_1034) 
+          Rafaelia Timothee Pentin (S_1038) 
+
+
+6. BUS1 Introduction-to-Business
+
+    Session: C_h5
+      Professor Lyndy Port Perotti (F_1018)
+        17 Students: 
+          Paige Lorinda Pollicott (S_1013) 
+          Jada Kare Dennehy (S_1028) 
+          Dewitt Jobi Ludl (S_1012) 
+          Tanner Wandis Cleugher (S_1022) 
+          Kelly Elia Whayman (S_1044) 
+          Madlen Sharon Torbet (S_1047) 
+          Shirleen Bing Eslie (S_1000) 
+          Vita Glenda Silveston (S_1007) 
+          Lynde Magda Menichini (S_1016) 
+          Eamon Kailey Linnett (S_1025) 
+          Oralle Arlana Doggrell (S_1034) 
+          Korie Francesco Rossetti (S_1039) 
+          Vidovik Stuart Wedge (S_1004) 
+          Cosme Felisha Raund (S_1019) 
+          Sibella Antin Brinded (S_1024) 
+          Hinze Rebekkah Briddock (S_1041) 
+          Nefen Juline Yeo (S_1046) 
+
+
+7. BUS10 Business-Statistics
+
+    Session: C_i7
+      Professor Kim Andonis Diche (F_1021)
+        19 Students: 
+          Aura Darby Peregrine (S_1003) 
+          Hughie Jonas Haggarty (S_1015) 
+          Lane Debor Lethbridge (S_1032) 
+          Rafaelia Timothee Pentin (S_1038) 
+          Lindy Aaren McTrusty (S_1048) 
+          Fania Artie Edgcombe (S_1018) 
+          Kippy Kati Pavey (S_1023) 
+          Niel Earle Firk (S_1045) 
+          Vincenz Selby Worpole (S_1002) 
+          Adelind Hagan Morstatt (S_1005) 
+          Felipa Terry Bath (S_1006) 
+          Donnie Jobyna Ingerith (S_1008) 
+          Carroll Joby Yanukhin (S_1021) 
+          Lizbeth Ileana Maase (S_1026) 
+          Felisha Sim Puncher (S_1027) 
+          Salomon Nicol Dawltrey (S_1033) 
+          Alysa Jyoti Ryding (S_1035) 
+          Stephanus Noni Macauley (S_1043) 
+          Dehlia Milli Kirstein (S_1049) 
+
+
+8. CHEM1A General-Chemistry-I
+
+    Session: C_j9
+      Professor Rosabel Flori Rosewarne (F_1024)
+        13 Students: 
+          Glenden Rivy Mathou (S_1020) 
+          Abbie Peter McNalley (S_1042) 
+          Lorant Papagena Titterrell (S_1010) 
+          Faythe Judie Outright (S_1011) 
+          Paige Lorinda Pollicott (S_1013) 
+          Jada Kare Dennehy (S_1028) 
+          Say Ericka Agg (S_1029) 
+          Ignaz Dinny Nesterov (S_1037) 
+          Dehlia Milli Kirstein (S_1049) 
+          Shirleen Bing Eslie (S_1000) 
+          Lynde Magda Menichini (S_1016) 
+          Eamon Kailey Linnett (S_1025) 
+          Korie Francesco Rossetti (S_1039) 
+
+
+9. CHEM1B General-Chemistry-II
+
+    Session: C_l5
+      Professor Philomena Sigrid Cellier (F_1028)
+        12 Students: 
+          Sarena Rowan Marunchak (S_1014) 
+          Eugenio Bartlett de-Guise (S_1030) 
+          Vincenz Selby Worpole (S_1002) 
+          Felipa Terry Bath (S_1006) 
+          Donnie Jobyna Ingerith (S_1008) 
+          Minna Chaim Guynemer (S_1017) 
+          Glenden Rivy Mathou (S_1020) 
+          Felisha Sim Puncher (S_1027) 
+          Salomon Nicol Dawltrey (S_1033) 
+          Alysa Jyoti Ryding (S_1035) 
+          Pavla Walther Bullerwell (S_1040) 
+          Abbie Peter McNalley (S_1042) 
+
+
+10. CHEM3 Fundamental-Chemistry
+
+    Session: C_n1
+      Professor Bruce Broderic Muldoon (F_1032)
+        13 Students: 
+          Lynde Magda Menichini (S_1016) 
+          Korie Francesco Rossetti (S_1039) 
+          Dehlia Milli Kirstein (S_1049) 
+          Aura Darby Peregrine (S_1003) 
+          Adelind Hagan Morstatt (S_1005) 
+          Odelia Armin McIlheran (S_1009) 
+          Cosme Felisha Raund (S_1019) 
+          Lizbeth Ileana Maase (S_1026) 
+          Lane Debor Lethbridge (S_1032) 
+          Arlinda York Koche (S_1036) 
+          Hinze Rebekkah Briddock (S_1041) 
+          Dewitt Jobi Ludl (S_1012) 
+          Tanner Wandis Cleugher (S_1022) 
+
+
+11. CS1A Introduction-to-Computer-Science-I
+
+    Session: C_o7
+      Professor Daveta Sybyl Simkovich (F_1036)
+        12 Students: 
+          Vincenz Selby Worpole (S_1002) 
+          Felisha Sim Puncher (S_1027) 
+          Madlen Sharon Torbet (S_1047) 
+          Lindy Aaren McTrusty (S_1048) 
+          Donnie Jobyna Ingerith (S_1008) 
+          Sarena Rowan Marunchak (S_1014) 
+          Eugenio Bartlett de-Guise (S_1030) 
+          Alysa Jyoti Ryding (S_1035) 
+          Madlen Sharon Torbet (S_1047) 
+          Glenden Rivy Mathou (S_1020) 
+          Abbie Peter McNalley (S_1042) 
+          Kelly Elia Whayman (S_1044) 

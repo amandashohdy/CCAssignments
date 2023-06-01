@@ -1,0 +1,397 @@
+Scheduled Courses
+------------------
+
+
+1. BIO3C Biochemistry-and-Molecular-Biology
+
+    Session: C_1000
+      Professor Lani Justine Docksey (F_a0)
+        9 Students: 
+          Merline Marchelle McCathie (S_a8) 
+          Culley Dulci Kingsworth (S_c7) 
+          Phylys Carolann Keene (S_d2) 
+          Inesita Daniela Hardern (S_d5) 
+          Conny Aldric Figgess (S_e9) 
+          Maxie Bev McConnal (S_f7) 
+          Sasha Renata Gossage (S_g3) 
+          Maurene Daphne Helgass (S_g5) 
+          Armstrong Gillie Work (S_h3) 
+
+
+2. BIO4A Principles-of-Cellular-Biology
+
+    Session: C_1002
+      Professor Giavani De Woltman (F_a1)
+        10 Students: 
+          Barnett Dory Barus (S_a1) 
+          Sukey Giacopo Mateiko (S_a5) 
+          Merline Marchelle McCathie (S_a8) 
+          Kristel Jesus Pedracci (S_a9) 
+          Meta Cate Alderwick (S_b1) 
+          Anton Albrecht Esposita (S_b3) 
+          Redd Ree Pullin (S_b7) 
+          Tiffy Gustavo Muttock (S_b8) 
+          Harriet Arni Budge (S_b9) 
+          Emmott Bobby Yanov (S_c0) 
+
+    Session: C_1003
+      Professor Giavani De Woltman (F_a1)
+        10 Students: 
+          Elsa Shay Lucia (S_c1) 
+          Rafferty Lyndel Del-Monte (S_d6) 
+          Sutherlan Chloette Langmaid (S_d8) 
+          Lorens Kippy Santen (S_e3) 
+          Gwendolin Reiko Raddin (S_f2) 
+          Dianne Dulce Corthes (S_f3) 
+          Kassia Dalt Bigg (S_f4) 
+          Janel Cleon Spenley (S_f6) 
+          Feodora Leonardo Ablott (S_g0) 
+          Vanessa David Giabuzzi (S_g1) 
+
+
+3. BIO4B Principles-of-Organismal-Biology
+
+    Session: C_1004
+      Professor Justino Blane Spores (F_a2)
+        7 Students: 
+          Wildon Myrtie Takle (S_c5) 
+          Yancy Margarethe Doerr (S_c9) 
+          Benita Emmie Gokes (S_d3) 
+          Rikki Valida Hackworth (S_e2) 
+          Aldrich Dolf Gylle (S_e5) 
+          Ambrosi Dacia Chesnay (S_f5) 
+          Myriam Corly Nickels (S_g8) 
+
+
+4. BIO15 General-Microbiology
+
+    Session: C_1006
+      Professor Nikolia Bird Wanstall (F_a3)
+        11 Students: 
+          Wayland Esmaria Wickersley (S_a4) 
+          Felice Juliann Cody (S_a7) 
+          Marcile Any Josum (S_b0) 
+          Margalit Linnie McKevany (S_b2) 
+          Emmott Bobby Yanov (S_c0) 
+          Sarene Dominga Pendrich (S_e0) 
+          Kassia Dalt Bigg (S_f4) 
+          Kathleen Yardley Mugford (S_f8) 
+          Robinette Nissy Bultitude (S_f9) 
+          Oran Fulton Beeson (S_g9) 
+          De-witt Cordelie Muro (S_h1) 
+
+
+5. BIO19 Marine-Biology
+
+    Session: C_1008
+      Professor Othilia Lyell Sidery (F_a4)
+        10 Students: 
+          Ulrica Jereme Breacher (S_a0) 
+          Barnett Dory Barus (S_a1) 
+          Cory Cathrin Jerdon (S_a3) 
+          Wayland Esmaria Wickersley (S_a4) 
+          Sukey Giacopo Mateiko (S_a5) 
+          Tiffy Gustavo Muttock (S_b8) 
+          Louis Gregorius Betts (S_d4) 
+          Manuel Saudra Ridley (S_d9) 
+          Adolphe Anna-maria Rissom (S_e1) 
+          Sherill Jordain Zuan (S_e6) 
+
+
+6. BUS1 Introduction-to-Business
+
+    Session: C_1010
+      Professor Gaby Christophe Farndon (F_a5)
+        17 Students: 
+          Ulrica Jereme Breacher (S_a0) 
+          Kalil Lily Chazerand (S_a2) 
+          Kristel Jesus Pedracci (S_a9) 
+          Redd Ree Pullin (S_b7) 
+          Yancy Margarethe Doerr (S_c9) 
+          Benita Emmie Gokes (S_d3) 
+          Louis Gregorius Betts (S_d4) 
+          Inesita Daniela Hardern (S_d5) 
+          Moore Sarene Emmins (S_e4) 
+          Sophie Bianca Bowskill (S_e7) 
+          Jeff Rustie Andersch (S_e8) 
+          Dianne Dulce Corthes (S_f3) 
+          Maxie Bev McConnal (S_f7) 
+          Robinette Nissy Bultitude (S_f9) 
+          Elvera Jennie Drillot (S_g7) 
+          Oran Fulton Beeson (S_g9) 
+          Armstrong Gillie Work (S_h3) 
+
+
+7. BUS10 Business-Statistics
+
+    Session: C_1011
+      Professor Gaby Christophe Farndon (F_a5)
+        13 Students: 
+          Marcile Any Josum (S_b0) 
+          Hillary Fons Blowing (S_b5) 
+          Caty Flynn Tripe (S_b6) 
+          Elsa Shay Lucia (S_c1) 
+          Boot Melicent Stormonth (S_c2) 
+          Walsh Willy Redholes (S_c6) 
+          Louis Gregorius Betts (S_d4) 
+          Rikki Valida Hackworth (S_e2) 
+          Sophie Bianca Bowskill (S_e7) 
+          Gwendolin Reiko Raddin (S_f2) 
+          Kathleen Yardley Mugford (S_f8) 
+          Feodora Leonardo Ablott (S_g0) 
+          Sasha Renata Gossage (S_g3) 
+
+
+8. CHEM1A General-Chemistry-I
+
+    Session: C_1012
+      Professor Shari Bianka Freiberg (F_a6)
+        19 Students: 
+          Sukey Giacopo Mateiko (S_a5) 
+          Merline Marchelle McCathie (S_a8) 
+          Anton Albrecht Esposita (S_b3) 
+          Morganne Ediva Gomery (S_b4) 
+          Elsa Shay Lucia (S_c1) 
+          Truman Gwyn Berling (S_c3) 
+          Walsh Willy Redholes (S_c6) 
+          Yancy Margarethe Doerr (S_c9) 
+          Phylys Carolann Keene (S_d2) 
+          Rafferty Lyndel Del-Monte (S_d6) 
+          Sherill Jordain Zuan (S_e6) 
+          Jeff Rustie Andersch (S_e8) 
+          Ambrosi Dacia Chesnay (S_f5) 
+          Stevy Townie Ponceford (S_g2) 
+          Vivyan Lesli Bealing (S_g4) 
+          Maurene Daphne Helgass (S_g5) 
+          Gal Murial Stelfax (S_g6) 
+          De-witt Cordelie Muro (S_h1) 
+          Armstrong Gillie Work (S_h3) 
+
+
+9. CHEM1B General-Chemistry-II
+
+    Session: C_1014
+      Professor Bonnee Tucker Jerdon (F_a7)
+        4 Students: 
+          Wayland Esmaria Wickersley (S_a4) 
+          Felice Juliann Cody (S_a7) 
+          Hillary Fons Blowing (S_b5) 
+          Filmore Grange Prudence (S_c4) 
+
+    Session: C_1015
+      Professor Bonnee Tucker Jerdon (F_a7)
+        4 Students: 
+          Benita Emmie Gokes (S_d3) 
+          Briggs Callie Oloshkin (S_d7) 
+          Adolphe Anna-maria Rissom (S_e1) 
+          Lorens Kippy Santen (S_e3) 
+
+
+10. CHEM3 Fundamental-Chemistry
+
+    Session: C_1016
+      Professor Randy Pia Mixon (F_a8)
+        5 Students: 
+          Barnett Dory Barus (S_a1) 
+          Katrine Lanie Focke (S_a6) 
+          Caty Flynn Tripe (S_b6) 
+          Tiffy Gustavo Muttock (S_b8) 
+          Graham Petronella Prenty (S_d0) 
+
+    Session: C_1017
+      Professor Randy Pia Mixon (F_a8)
+        5 Students: 
+          Inesita Daniela Hardern (S_d5) 
+          Sutherlan Chloette Langmaid (S_d8) 
+          Manuel Saudra Ridley (S_d9) 
+          Moore Sarene Emmins (S_e4) 
+          Robinette Nissy Bultitude (S_f9) 
+
+
+11. CS1A Introduction-to-Computer-Science-I
+
+    Session: C_1018
+      Professor Hasty Hynda Glover (F_a9)
+        10 Students: 
+          Wayland Esmaria Wickersley (S_a4) 
+          Katrine Lanie Focke (S_a6) 
+          Marcile Any Josum (S_b0) 
+          Meta Cate Alderwick (S_b1) 
+          Caty Flynn Tripe (S_b6) 
+          Culley Dulci Kingsworth (S_c7) 
+          Lorens Kippy Santen (S_e3) 
+          Gwendolin Reiko Raddin (S_f2) 
+          Robinette Nissy Bultitude (S_f9) 
+          Oran Fulton Beeson (S_g9) 
+
+
+12. CS1B Introduction-to-Computer-Science-II
+
+    Session: C_1019
+      Professor Hasty Hynda Glover (F_a9)
+        7 Students: 
+          Kristel Jesus Pedracci (S_a9) 
+          Hillary Fons Blowing (S_b5) 
+          Walsh Willy Redholes (S_c6) 
+          Rafferty Lyndel Del-Monte (S_d6) 
+          Bonnie Pansy Fitchell (S_f1) 
+          Feodora Leonardo Ablott (S_g0) 
+          Stevy Townie Ponceford (S_g2) 
+
+
+13. CS1C Introduction-to-Computer-Science-III
+
+    Session: C_1020
+      Professor Angeline Leilah Stegel (F_b0)
+        7 Students: 
+          Anton Albrecht Esposita (S_b3) 
+          Morganne Ediva Gomery (S_b4) 
+          Redd Ree Pullin (S_b7) 
+          Harriet Arni Budge (S_b9) 
+          Candy Natalina Scuse (S_c8) 
+          Manuel Saudra Ridley (S_d9) 
+          Kassia Dalt Bigg (S_f4) 
+
+
+14. CS3A Computer-Organization-and-Machine-Language
+
+    Session: C_1022
+      Professor Dalenna Ginnifer Dymidowicz (F_b1)
+        6 Students: 
+          Kalil Lily Chazerand (S_a2) 
+          Felice Juliann Cody (S_a7) 
+          Marcile Any Josum (S_b0) 
+          Harriet Arni Budge (S_b9) 
+          Emmott Bobby Yanov (S_c0) 
+          Boot Melicent Stormonth (S_c2) 
+
+
+15. CS3B Computer-Organization-and-Assembly-Language
+
+    Session: C_1023
+      Professor Dalenna Ginnifer Dymidowicz (F_b1)
+        5 Students: 
+          Sukey Giacopo Mateiko (S_a5) 
+          Morganne Ediva Gomery (S_b4) 
+          Rikki Valida Hackworth (S_e2) 
+          Kathleen Yardley Mugford (S_f8) 
+          Myriam Corly Nickels (S_g8) 
+
+
+16. ENG1A Principles-of-Composition-I
+
+    Session: C_1024
+      Professor Arty Berta Wordesworth (F_b2)
+        12 Students: 
+          Kalil Lily Chazerand (S_a2) 
+          Cory Cathrin Jerdon (S_a3) 
+          Meta Cate Alderwick (S_b1) 
+          Hillary Fons Blowing (S_b5) 
+          Truman Gwyn Berling (S_c3) 
+          Sutherlan Chloette Langmaid (S_d8) 
+          Adolphe Anna-maria Rissom (S_e1) 
+          Moore Sarene Emmins (S_e4) 
+          Bonnie Pansy Fitchell (S_f1) 
+          Janel Cleon Spenley (S_f6) 
+          Maxie Bev McConnal (S_f7) 
+          Kathleen Yardley Mugford (S_f8) 
+
+
+17. ENG1B Principles-of-Composition-II
+
+    Session: C_1025
+      Professor Arty Berta Wordesworth (F_b2)
+        8 Students: 
+          Candy Natalina Scuse (S_c8) 
+          Sutherlan Torin Hadleigh (S_d1) 
+          Rafferty Lyndel Del-Monte (S_d6) 
+          Rikki Valida Hackworth (S_e2) 
+          Ambrosi Dacia Chesnay (S_f5) 
+          Maurene Daphne Helgass (S_g5) 
+          Myriam Corly Nickels (S_g8) 
+          Oran Fulton Beeson (S_g9) 
+
+
+18. MATH2 Pre-Calculus-Mathematics
+
+    Session: C_1026
+      Professor Emlynne Maureen Sired (F_b3)
+        14 Students: 
+          Cory Cathrin Jerdon (S_a3) 
+          Katrine Lanie Focke (S_a6) 
+          Kristel Jesus Pedracci (S_a9) 
+          Meta Cate Alderwick (S_b1) 
+          Tiffy Gustavo Muttock (S_b8) 
+          Elsa Shay Lucia (S_c1) 
+          Culley Dulci Kingsworth (S_c7) 
+          Sutherlan Torin Hadleigh (S_d1) 
+          Aldrich Dolf Gylle (S_e5) 
+          Jeff Rustie Andersch (S_e8) 
+          Conny Aldric Figgess (S_e9) 
+          Gwendolin Reiko Raddin (S_f2) 
+          Sasha Renata Gossage (S_g3) 
+          Patrick Amii Aharoni (S_h0) 
+
+
+19. MATH3C Analytic-Geometry-and-Calculus-III
+
+    Session: C_1029
+      Professor Blayne Bradney Faveryear (F_b4)
+        7 Students: 
+          Katrine Lanie Focke (S_a6) 
+          Margalit Linnie McKevany (S_b2) 
+          Graham Petronella Prenty (S_d0) 
+          Phylys Carolann Keene (S_d2) 
+          Briggs Callie Oloshkin (S_d7) 
+          Sophie Bianca Bowskill (S_e7) 
+          Conny Aldric Figgess (S_e9) 
+
+
+20. MATH10 Introduction-to-Statistics
+
+    Session: C_1030
+      Professor Elias Pamela Crossfeld (F_b5)
+        9 Students: 
+          Merline Marchelle McCathie (S_a8) 
+          Anton Albrecht Esposita (S_b3) 
+          Candy Natalina Scuse (S_c8) 
+          Yancy Margarethe Doerr (S_c9) 
+          Inesita Daniela Hardern (S_d5) 
+          Aldrich Dolf Gylle (S_e5) 
+          Vivyan Lesli Bealing (S_g4) 
+          Gal Murial Stelfax (S_g6) 
+          Lyssa Gianina Gateshill (S_h4) 
+
+
+21. PHYS2A Introduction-to-Physics
+
+    Session: C_1031
+      Professor Elias Pamela Crossfeld (F_b5)
+        10 Students: 
+          Kalil Lily Chazerand (S_a2) 
+          Cory Cathrin Jerdon (S_a3) 
+          Morganne Ediva Gomery (S_b4) 
+          Harriet Arni Budge (S_b9) 
+          Boot Melicent Stormonth (S_c2) 
+          Wildon Myrtie Takle (S_c5) 
+          Culley Dulci Kingsworth (S_c7) 
+          Sutherlan Chloette Langmaid (S_d8) 
+          Sarene Dominga Pendrich (S_e0) 
+          Sherill Jordain Zuan (S_e6) 
+
+
+22. PHYS4A General-Physics-I
+
+    Session: C_1032
+      Professor Genovera Elvin Mcwhinney (F_b6)
+        10 Students: 
+          Ulrica Jereme Breacher (S_a0) 
+          Barnett Dory Barus (S_a1) 
+          Felice Juliann Cody (S_a7) 
+          Margalit Linnie McKevany (S_b2) 
+          Emmott Bobby Yanov (S_c0) 
+          Truman Gwyn Berling (S_c3) 
+          Wildon Myrtie Takle (S_c5) 
+          Walsh Willy Redholes (S_c6) 
+          Benita Emmie Gokes (S_d3) 
+          Louis Gregorius Betts (S_d4) 

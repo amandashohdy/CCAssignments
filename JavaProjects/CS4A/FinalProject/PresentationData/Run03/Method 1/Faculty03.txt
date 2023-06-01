@@ -1,0 +1,447 @@
+Faculty Information
+--------------------
+
+
+1. Gilberto Glory Fehner (F_a0)
+        E: gfehner14@globo.com
+        T: 469-922-0186
+        A: 7 Katie Trail, Dallas, Texas 75236
+        Hire Date: 06/08/2016
+        Has Tenure: false
+  Faculty Schedule:
+    BIO3C Biochemistry-and-Molecular-Biology
+        Session: C_a0
+            18 Students Enrolled
+
+
+
+
+2. Dilan Cindee Faldoe (F_a1)
+        E: cfaldoe15@jimdo.com
+        T: 361-600-2433
+        A: 9983 Mosinee Trail, Corpus Christi, Texas 78426
+        Hire Date: 04/05/2021
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+3. Orin Corella Dello (F_a2)
+        E: cdello16@upenn.edu
+        T: 862-370-6351
+        A: 095 Pond Junction, Newark, New-Jersey 7188
+        Hire Date: 04/13/2017
+        Has Tenure: false
+  Faculty Schedule:
+    BIO4B Principles-of-Organismal-Biology
+        Session: C_a6
+            13 Students Enrolled
+
+
+
+
+4. Janette Irwin Dudin (F_a3)
+        E: idudin17@hexun.com
+        T: 808-353-7037
+        A: 8648 Maywood Parkway, Honolulu, Hawaii 96820
+        Hire Date: 03/08/2018
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+5. Cirstoforo Kippar Blaycock (F_a4)
+        E: kblaycock18@mapquest.com
+        T: 801-659-5634
+        A: 64791 Briar Crest Hill, Provo, Utah 84605
+        Hire Date: 05/15/2016
+        Has Tenure: true
+  Faculty Schedule:
+    BIO19 Marine-Biology
+        Session: C_b2
+            13 Students Enrolled
+
+
+
+
+6. Geri Renato Tetley (F_a5)
+        E: rtetley19@bluehost.com
+        T: 415-252-3844
+        A: 583 Montana Junction, San Francisco, California 94164
+        Hire Date: 11/15/2013
+        Has Tenure: true
+  Faculty Schedule:
+    BUS1 Introduction-to-Business
+        Session: C_b5
+            16 Students Enrolled
+
+
+
+
+7. Sula Sissie Creany (F_a6)
+        E: screany1a@studiopress.com
+        T: 913-764-3410
+        A: 4 Buhler Street, Kansas City, Kansas 66160
+        Hire Date: 10/09/2015
+        Has Tenure: true
+  Faculty Schedule:
+    BUS10 Business-Statistics
+        Session: C_b8
+            19 Students Enrolled
+
+
+
+
+8. Mathe Margeaux Banville (F_a7)
+        E: mbanville1b@bbb.org
+        T: 513-339-3162
+        A: 4 Buhler Terrace, Dayton, Ohio 45419
+        Hire Date: 07/13/2010
+        Has Tenure: true
+  Faculty Schedule:
+    CHEM1A General-Chemistry-I
+        Session: C_c1
+            10 Students Enrolled
+
+
+
+
+9. Eolande Tracy Enga (F_a8)
+        E: tenga1c@theglobeandmail.com
+        T: 616-833-4625
+        A: 69 Sheridan Alley, Grand Rapids, Michigan 49544
+        Hire Date: 09/11/2018
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+10. Vickie Tracie Tracy (F_a9)
+        E: ttracy1d@github.com
+        T: 818-643-4655
+        A: 4628 Nancy Center, Glendale, California 91210
+        Hire Date: 05/07/2015
+        Has Tenure: false
+  Faculty Schedule:
+    CHEM3 Fundamental-Chemistry
+        Session: C_c7
+            11 Students Enrolled
+
+
+
+
+11. Tonye Asia Crowdson (F_b0)
+        E: acrowdson1e@1688.com
+        T: 713-624-8511
+        A: 422 Namekagon Plaza, Houston, Texas 77288
+        Hire Date: 01/14/2011
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+12. Reed Wat Filipowicz (F_b1)
+        E: wfilipowicz1f@1und1.de
+        T: 260-324-4807
+        A: 9089 Fieldstone Lane, Fort Wayne, Indiana 46814
+        Hire Date: 03/16/2010
+        Has Tenure: true
+  Faculty Schedule:
+    CS1B Introduction-to-Computer-Science-II
+        Session: C_d3
+            14 Students Enrolled
+
+
+
+
+13. Thorndike Hermann Sturzaker (F_b2)
+        E: hsturzaker1g@intel.com
+        T: 773-726-4438
+        A: 7 Farragut Way, Chicago, Illinois 60604
+        Hire Date: 03/12/2023
+        Has Tenure: true
+  Faculty Schedule:
+    CS1C Introduction-to-Computer-Science-III
+        Session: C_d6
+            9 Students Enrolled
+
+
+
+
+14. Gideon Aridatha Ruggs (F_b3)
+        E: aruggs1h@scribd.com
+        T: 770-904-6262
+        A: 31 Cottonwood Lane, Marietta, Georgia 30061
+        Hire Date: 02/01/2021
+        Has Tenure: false
+  Faculty Schedule:
+    CS1D Data-Structures
+        Session: C_d9
+            16 Students Enrolled
+
+
+
+
+15. Pansie Florette Hill (F_b4)
+        E: fhill1i@apple.com
+        T: 814-796-0765
+        A: 2603 Eastlawn Junction, Johnstown, Pennsylvania 15906
+        Hire Date: 06/10/2011
+        Has Tenure: false
+  Faculty Schedule:
+    CS3A Computer-Organization-and-Machine-Language
+        Session: C_e2
+            17 Students Enrolled
+
+
+
+
+16. Marena Valerie Karpfen (F_b5)
+        E: vkarpfen1j@theatlantic.com
+        T: 415-139-1351
+        A: 6622 Farmco Way, San Francisco, California 94164
+        Hire Date: 06/24/2022
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+17. Denys Lorraine Edgley (F_b6)
+        E: ledgley1k@trellian.com
+        T: 603-742-7233
+        A: 6054 Fair Oaks Center, Portsmouth, New-Hampshire 3804
+        Hire Date: 01/14/2017
+        Has Tenure: false
+  Faculty Schedule:
+    ENG1A Principles-of-Composition-I
+        Session: C_e8
+            10 Students Enrolled
+
+
+
+
+18. Xylia Kaspar Lautie (F_b7)
+        E: klautie1l@nih.gov
+        T: 850-716-6734
+        A: 2 Ridge Oak Junction, Tallahassee, Florida 32309
+        Hire Date: 02/20/2018
+        Has Tenure: true
+  Faculty Schedule:
+    ENG1B Principles-of-Composition-II
+        Session: C_f1
+            15 Students Enrolled
+
+
+
+
+19. Xylia Aron Roman (F_b8)
+        E: aroman1m@newsvine.com
+        T: 916-577-2529
+        A: 6 Stone Corner Alley, Sacramento, California 94257
+        Hire Date: 11/21/2020
+        Has Tenure: false
+  Faculty Schedule:
+    MATH2 Pre-Calculus-Mathematics
+        Session: C_f4
+            17 Students Enrolled
+
+
+
+
+20. Chiarra Mickie Bride (F_b9)
+        E: mbride1n@1und1.de
+        T: 608-751-2086
+        A: 90 Browning Lane, Madison, Wisconsin 53785
+        Hire Date: 11/09/2021
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+21. Glynnis Sallee Crucitti (F_c0)
+        E: scrucitti1o@merriam-webster.com
+        T: 813-677-5690
+        A: 0 Londonderry Center, Tampa, Florida 33605
+        Hire Date: 06/01/2017
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+22. Felicia Darleen Melly (F_c1)
+        E: dmelly1p@ed.gov
+        T: 850-650-9226
+        A: 2 Bashford Junction, Panama City, Florida 32405
+        Hire Date: 07/24/2015
+        Has Tenure: true
+  Faculty Schedule:
+    MATH3C Analytic-Geometry-and-Calculus-III
+        Session: C_g3
+            10 Students Enrolled
+
+
+
+
+23. Noby Natalee Sussex (F_c2)
+        E: nsussex1q@instagram.com
+        T: 361-566-7662
+        A: 90579 Hansons Drive, Corpus Christi, Texas 78410
+        Hire Date: 10/18/2018
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+24. Mellisent Joan Brugden (F_c3)
+        E: jbrugden1r@diigo.com
+        T: 918-442-0596
+        A: 9999 East Point, Tulsa, Oklahoma 74141
+        Hire Date: 05/29/2014
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+25. Torey Alfie Holdin (F_c4)
+        E: aholdin1s@booking.com
+        T: 502-254-1557
+        A: 1 Fremont Drive, Louisville, Kentucky 40220
+        Hire Date: 05/06/2016
+        Has Tenure: true
+  Faculty Schedule:
+    PHYS4A General-Physics-I
+        Session: C_h2
+            14 Students Enrolled
+
+
+
+
+26. Elmo Rocky Walhedd (F_c5)
+        E: rwalhedd1t@gravatar.com
+        T: 239-315-7905
+        A: 35 Sunbrook Drive, Naples, Florida 34114
+        Hire Date: 03/12/2017
+        Has Tenure: true
+  Faculty Schedule:
+    PHYS4B General-Physics-II
+        Session: C_h5
+            14 Students Enrolled
+
+
+
+
+27. Sibeal Mendy Cannavan (F_c6)
+        E: mcannavan1u@salon.com
+        T: 720-113-1482
+        A: 6 Drewry Road, Denver, Colorado 80299
+        Hire Date: 03/14/2012
+        Has Tenure: false
+  Faculty Schedule:
+    PHYS4C General-Physics-III
+        Session: C_h8
+            17 Students Enrolled
+
+
+
+
+28. Adella Stacia Machon (F_c7)
+        E: smachon1v@ovh.net
+        T: 801-539-1581
+        A: 7 Warner Parkway, Ogden, Utah 84409
+        Hire Date: 01/26/2017
+        Has Tenure: true
+  Faculty Schedule:
+    PSYC1 Introduction-to-Psychology
+        Session: C_i1
+            18 Students Enrolled
+
+
+
+
+29. Felix Maude Silverson (F_c8)
+        E: msilverson1w@cafepress.com
+        T: 239-983-0986
+        A: 5 Laurel Center, Lehigh Acres, Florida 33972
+        Hire Date: 12/28/2013
+        Has Tenure: true
+  Faculty Schedule:
+    PSYC2 Research-Methods-In-Psychology
+        Session: C_i4
+            12 Students Enrolled
+
+
+
+
+30. Reta Venus Laverty (F_c9)
+        E: vlaverty1x@census.gov
+        T: 973-442-1233
+        A: 24 Merchant Crossing, Newark, New-Jersey 7104
+        Hire Date: 07/17/2010
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+31. Cordi Jobi Finley (F_d0)
+        E: jfinley1y@redcross.org
+        T: 850-652-7093
+        A: 8 Cascade Court, Tallahassee, Florida 32304
+        Hire Date: 12/08/2016
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+32. Jamima Xavier Danbi (F_d1)
+        E: xdanbi1z@bizjournals.com
+        T: 971-395-5185
+        A: 395 Esker Street, Portland, Oregon 97255
+        Hire Date: 06/11/2022
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+33. Allegra Beverlee MacCard (F_d2)
+        E: bmaccard20@macromedia.com
+        T: 302-252-7400
+        A: 76 Union Alley, Wilmington, Delaware 19886
+        Hire Date: 01/15/2022
+        Has Tenure: false
+  Faculty Schedule:
+
+
+
+
+34. Konstantin Zelma Fassan (F_d3)
+        E: zfassan21@ed.gov
+        T: 419-412-2645
+        A: 833 Green Ridge Way, Toledo, Ohio 43635
+        Hire Date: 04/21/2014
+        Has Tenure: true
+  Faculty Schedule:
+
+
+
+
+35. Cindi Cleo Yurlov (F_d4)
+        E: cyurlov22@imgur.com
+        T: 321-893-1298
+        A: 499 Saint Paul Point, Melbourne, Florida 32941
+        Hire Date: 04/28/2012
+        Has Tenure: true
+  Faculty Schedule:
+
+

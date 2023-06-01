@@ -1,0 +1,425 @@
+Scheduled Courses
+------------------
+
+
+1. BIO3C Biochemistry-and-Molecular-Biology
+
+    Session: C_a0
+      Professor Gilberto Glory Fehner (F_a0)
+        18 Students: 
+          Cullin Valentine Schleicher (S_a6) 
+          Jean Miriam Barstow (S_b0) 
+          Jourdan Kristen Cornely (S_d7) 
+          Cal Isak Loncaster (S_d9) 
+          Inez Katina Golde (S_e6) 
+          Trude Kristyn Christene (S_f7) 
+          Ross Rania Gallifont (S_g1) 
+          Abbott Arlena Pridie (S_g3) 
+          Selig Trey McKinstry (S_g7) 
+          Wilfrid Clarinda Pilkington (S_h2) 
+          Jaclin Gaultiero Ashment (S_b2) 
+          Gabriellia Jeanine Borges (S_d3) 
+          Caralie Georgianne Kinze (S_g8) 
+          Bo Bale Humber (S_i6) 
+          Moll Friedrich Ferrie (S_i9) 
+          Nicolle Melisse Tuddenham (S_b6) 
+          Currie Winne Zanotti (S_i3) 
+          Pauletta Jillayne Petkens (S_j3) 
+
+
+2. BIO4B Principles-of-Organismal-Biology
+
+    Session: C_a6
+      Professor Orin Corella Dello (F_a2)
+        13 Students: 
+          Mellisa Leilah Wayman (S_c2) 
+          Jourdan Kristen Cornely (S_d7) 
+          Inez Katina Golde (S_e6) 
+          Heather Kettie Cerith (S_e8) 
+          Corty Stanford Rundall (S_i5) 
+          Moll Friedrich Ferrie (S_i9) 
+          Lilian Anabal Rabbage (S_e0) 
+          Almeria Bartlett Ropars (S_e3) 
+          Trude Kristyn Christene (S_f7) 
+          Maison Blythe Hanny (S_j7) 
+          Blondie Cilka Barham (S_a3) 
+          Ferdie Blanche Guttridge (S_a4) 
+          Emmaline Faunie Erickssen (S_e2) 
+
+
+3. BIO19 Marine-Biology
+
+    Session: C_b2
+      Professor Cirstoforo Kippar Blaycock (F_a4)
+        13 Students: 
+          Stavros Marena Lepoidevin (S_a8) 
+          Heather Kettie Cerith (S_e8) 
+          Willabella Kristin Stoddart (S_h8) 
+          Mellisa Leilah Wayman (S_c2) 
+          Shawn Jeannette Sweetland (S_c8) 
+          Connie Felisha Newcombe (S_d4) 
+          Jerrylee Booth Bladon (S_j5) 
+          Abbott Arlena Pridie (S_g3) 
+          Wilfrid Clarinda Pilkington (S_h2) 
+          Codi Josiah Cridlin (S_c5) 
+          Grethel Lawrence Deniske (S_f3) 
+          Clayson Yance D'Costa (S_i2) 
+          Bendick Roxy Manthorpe (S_j4) 
+
+
+4. BUS1 Introduction-to-Business
+
+    Session: C_b5
+      Professor Geri Renato Tetley (F_a5)
+        16 Students: 
+          Felizio Zaria Giannazzo (S_a7) 
+          Paul Abbey Lorne (S_b3) 
+          Stevana Orren Bischop (S_e7) 
+          Grethel Lawrence Deniske (S_f3) 
+          Jerrylee Booth Bladon (S_j5) 
+          Maison Blythe Hanny (S_j7) 
+          Glenn Casie Marrion (S_a1) 
+          Gabriellia Jeanine Borges (S_d3) 
+          Pinchas Dannye Brokenshaw (S_h0) 
+          Kent Jeremiah McNutt (S_e1) 
+          Eulalie Gibbie McArthur (S_e9) 
+          Jean Miriam Barstow (S_b0) 
+          Sigmund Kameko Leitche (S_c4) 
+          Analiese Drucy McAlinion (S_f2) 
+          Vassili Adams Brendeke (S_i8) 
+          Elisha Mord Chesman (S_j0) 
+
+
+5. BUS10 Business-Statistics
+
+    Session: C_b8
+      Professor Sula Sissie Creany (F_a6)
+        19 Students: 
+          Blondie Cilka Barham (S_a3) 
+          Estrellita Penn Falcus (S_a9) 
+          Etta Timofei Hansel (S_d0) 
+          Analiese Drucy McAlinion (S_f2) 
+          Hildy Michaeline Fortun (S_h5) 
+          Caritta Burnaby Kemshell (S_j1) 
+          Jaclin Gaultiero Ashment (S_b2) 
+          Jone Cornela Sherburn (S_g2) 
+          Stefanie Parsifal Blaik (S_j8) 
+          Ferdie Blanche Guttridge (S_a4) 
+          Cris Sidnee Ellery (S_b1) 
+          Leanna Martynne Skate (S_f1) 
+          Talia Cheslie Purnell (S_f4) 
+          Gray Gratia Cathro (S_g5) 
+          Ailbert Malorie Skingley (S_h9) 
+          Jourdan Kristen Cornely (S_d7) 
+          Billie Nadean Cometti (S_e5) 
+          Willabella Kristin Stoddart (S_h8) 
+          Jerrylee Booth Bladon (S_j5) 
+
+
+6. CHEM1A General-Chemistry-I
+
+    Session: C_c1
+      Professor Mathe Margeaux Banville (F_a7)
+        10 Students: 
+          Vassili Adams Brendeke (S_i8) 
+          Billie Nadean Cometti (S_e5) 
+          Hildy Michaeline Fortun (S_h5) 
+          Maison Blythe Hanny (S_j7) 
+          Jacobo Cedric Askem (S_b8) 
+          Ario Marci Sowle (S_d1) 
+          Reuven Kalindi Tudbald (S_f9) 
+          Ross Rania Gallifont (S_g1) 
+          Selig Trey McKinstry (S_g7) 
+          Hershel Karlee Lutz (S_h7) 
+
+
+7. CHEM3 Fundamental-Chemistry
+
+    Session: C_c7
+      Professor Vickie Tracie Tracy (F_a9)
+        11 Students: 
+          Wilfrid Clarinda Pilkington (S_h2) 
+          Bo Bale Humber (S_i6) 
+          Lisette Bridgette Decreuze (S_j2) 
+          Bealle Salomon Husher (S_a2) 
+          Stavros Marena Lepoidevin (S_a8) 
+          Joannes Joni MacDunlevy (S_d2) 
+          Kent Jeremiah McNutt (S_e1) 
+          Mart Una Segeswoeth (S_f0) 
+          Sigmund Kameko Leitche (S_c4) 
+          Kipp Adriane Kyte (S_h1) 
+          Clayson Yance D'Costa (S_i2) 
+
+
+8. CS1B Introduction-to-Computer-Science-II
+
+    Session: C_d3
+      Professor Reed Wat Filipowicz (F_b1)
+        14 Students: 
+          Kent Jeremiah McNutt (S_e1) 
+          Rorke Obadias Frowd (S_g4) 
+          Ferdie Blanche Guttridge (S_a4) 
+          Beryl Florrie Yanele (S_c9) 
+          Eulalie Gibbie McArthur (S_e9) 
+          Hershel Karlee Lutz (S_h7) 
+          Caritta Burnaby Kemshell (S_j1) 
+          Lisette Bridgette Decreuze (S_j2) 
+          Mellisa Leilah Wayman (S_c2) 
+          Shawn Jeannette Sweetland (S_c8) 
+          Glenn Casie Marrion (S_a1) 
+          Felizio Zaria Giannazzo (S_a7) 
+          Etta Timofei Hansel (S_d0) 
+          Maison Blythe Hanny (S_j7) 
+
+
+9. CS1C Introduction-to-Computer-Science-III
+
+    Session: C_d6
+      Professor Thorndike Hermann Sturzaker (F_b2)
+        9 Students: 
+          Connie Felisha Newcombe (S_d4) 
+          Clayson Yance D'Costa (S_i2) 
+          Lilla Desdemona Gyorgy (S_d6) 
+          Blondie Cilka Barham (S_a3) 
+          Stavros Marena Lepoidevin (S_a8) 
+          Kaleena Violet Chable (S_d8) 
+          Eulalie Gibbie McArthur (S_e9) 
+          Talia Cheslie Purnell (S_f4) 
+          Juline Rosco Duns (S_f8) 
+
+
+10. CS1D Data-Structures
+
+    Session: C_d9
+      Professor Gideon Aridatha Ruggs (F_b3)
+        16 Students: 
+          Errick Faunie Kearey (S_c0) 
+          Royce Mic Crabtree (S_h6) 
+          Cullin Valentine Schleicher (S_a6) 
+          Analiese Drucy McAlinion (S_f2) 
+          Genevra Evy Meiklejohn (S_g9) 
+          Willie Karoly Bispham (S_b5) 
+          Nicolle Melisse Tuddenham (S_b6) 
+          Emmaline Faunie Erickssen (S_e2) 
+          Grethel Lawrence Deniske (S_f3) 
+          Stefanie Parsifal Blaik (S_j8) 
+          Bambi Lavina Pavis (S_j9) 
+          Zebedee Fred Kupke (S_c3) 
+          Almeria Bartlett Ropars (S_e3) 
+          Stevana Orren Bischop (S_e7) 
+          Osborn Miquela Kennifeck (S_i4) 
+          Andrew Ariadne Snoden (S_i7) 
+
+
+11. CS3A Computer-Organization-and-Machine-Language
+
+    Session: C_e2
+      Professor Pansie Florette Hill (F_b4)
+        17 Students: 
+          Philomena Ophelie Kruger (S_b4) 
+          Sigmund Kameko Leitche (S_c4) 
+          Gabriellia Jeanine Borges (S_d3) 
+          Almeria Bartlett Ropars (S_e3) 
+          Willie Karoly Bispham (S_b5) 
+          Andrew Ariadne Snoden (S_i7) 
+          Bambi Lavina Pavis (S_j9) 
+          Keely Lauryn Folkard (S_b9) 
+          Codi Josiah Cridlin (S_c5) 
+          Bartolemo Sonia Mixture (S_c6) 
+          Connie Felisha Newcombe (S_d4) 
+          Cal Isak Loncaster (S_d9) 
+          Royce Mic Crabtree (S_h6) 
+          Caritta Burnaby Kemshell (S_j1) 
+          Shawn Jeannette Sweetland (S_c8) 
+          Ailbert Malorie Skingley (S_h9) 
+          Emilee Daniela Bockmaster (S_i1) 
+
+
+12. ENG1A Principles-of-Composition-I
+
+    Session: C_e8
+      Professor Denys Lorraine Edgley (F_b6)
+        10 Students: 
+          Joannes Joni MacDunlevy (S_d2) 
+          Terrell Lina Geistbeck (S_f6) 
+          Godard Hailey Aronin (S_g0) 
+          Paul Abbey Lorne (S_b3) 
+          North Zelig Haston (S_f5) 
+          Osborn Miquela Kennifeck (S_i4) 
+          Philomena Ophelie Kruger (S_b4) 
+          Hughie Chrissy Wilshin (S_d5) 
+          Kenny Pattie Guiraud (S_j6) 
+          Bambi Lavina Pavis (S_j9) 
+
+
+13. ENG1B Principles-of-Composition-II
+
+    Session: C_f1
+      Professor Xylia Kaspar Lautie (F_b7)
+        15 Students: 
+          Mirabel Cheston MacCarrick (S_a0) 
+          Codi Josiah Cridlin (S_c5) 
+          Emmaline Faunie Erickssen (S_e2) 
+          Leanna Martynne Skate (S_f1) 
+          Ross Rania Gallifont (S_g1) 
+          Kipp Adriane Kyte (S_h1) 
+          Corty Stanford Rundall (S_i5) 
+          Laraine Appolonia Tregunna (S_a5) 
+          Tod Izzy Morecomb (S_b7) 
+          Errick Faunie Kearey (S_c0) 
+          Willabella Kristin Stoddart (S_h8) 
+          Currie Winne Zanotti (S_i3) 
+          Pauletta Jillayne Petkens (S_j3) 
+          Aura Angelina Lindstedt (S_e4) 
+          Burke Kissee Wemyss (S_i0) 
+
+
+14. MATH2 Pre-Calculus-Mathematics
+
+    Session: C_f4
+      Professor Xylia Aron Roman (F_b8)
+        17 Students: 
+          Mart Una Segeswoeth (S_f0) 
+          Blondie Cilka Barham (S_a3) 
+          Petrina Sukey Adderley (S_c1) 
+          Grethel Lawrence Deniske (S_f3) 
+          Glenn Casie Marrion (S_a1) 
+          Farrah Jillayne Charker (S_c7) 
+          Rorke Obadias Frowd (S_g4) 
+          Omero Catarina Lippitt (S_h3) 
+          Kenny Pattie Guiraud (S_j6) 
+          Laraine Appolonia Tregunna (S_a5) 
+          Jacobo Cedric Askem (S_b8) 
+          Ario Marci Sowle (S_d1) 
+          Connie Felisha Newcombe (S_d4) 
+          Eugine Alyosha Gobbett (S_g6) 
+          Caralie Georgianne Kinze (S_g8) 
+          Kipp Adriane Kyte (S_h1) 
+          Caritta Burnaby Kemshell (S_j1) 
+
+
+15. MATH3C Analytic-Geometry-and-Calculus-III
+
+    Session: C_g3
+      Professor Felicia Darleen Melly (F_c1)
+        10 Students: 
+          Farrah Jillayne Charker (S_c7) 
+          Reuven Kalindi Tudbald (S_f9) 
+          Gray Gratia Cathro (S_g5) 
+          Selig Trey McKinstry (S_g7) 
+          Sigmund Kameko Leitche (S_c4) 
+          Caralie Georgianne Kinze (S_g8) 
+          Bo Bale Humber (S_i6) 
+          Hughie Chrissy Wilshin (S_d5) 
+          Terrell Lina Geistbeck (S_f6) 
+          Kaleena Violet Chable (S_d8) 
+
+
+16. PHYS4A General-Physics-I
+
+    Session: C_h2
+      Professor Torey Alfie Holdin (F_c4)
+        14 Students: 
+          Kaleena Violet Chable (S_d8) 
+          Aura Angelina Lindstedt (S_e4) 
+          Bartolemo Sonia Mixture (S_c6) 
+          Godard Hailey Aronin (S_g0) 
+          Vassili Adams Brendeke (S_i8) 
+          Jean Miriam Barstow (S_b0) 
+          Jourdan Kristen Cornely (S_d7) 
+          Analiese Drucy McAlinion (S_f2) 
+          Lisabeth Sonnnie Chessill (S_h4) 
+          Elisha Mord Chesman (S_j0) 
+          Lilla Desdemona Gyorgy (S_d6) 
+          Trude Kristyn Christene (S_f7) 
+          Jone Cornela Sherburn (S_g2) 
+          Wilfrid Clarinda Pilkington (S_h2) 
+
+
+17. PHYS4B General-Physics-II
+
+    Session: C_h5
+      Professor Elmo Rocky Walhedd (F_c5)
+        14 Students: 
+          Nicolle Melisse Tuddenham (S_b6) 
+          Petrina Sukey Adderley (S_c1) 
+          Eulalie Gibbie McArthur (S_e9) 
+          Jone Cornela Sherburn (S_g2) 
+          Omero Catarina Lippitt (S_h3) 
+          Estrellita Penn Falcus (S_a9) 
+          Laraine Appolonia Tregunna (S_a5) 
+          Felizio Zaria Giannazzo (S_a7) 
+          Genevra Evy Meiklejohn (S_g9) 
+          Jerrylee Booth Bladon (S_j5) 
+          Kent Jeremiah McNutt (S_e1) 
+          Inez Katina Golde (S_e6) 
+          Reuven Kalindi Tudbald (S_f9) 
+          Abbott Arlena Pridie (S_g3) 
+
+
+18. PHYS4C General-Physics-III
+
+    Session: C_h8
+      Professor Sibeal Mendy Cannavan (F_c6)
+        17 Students: 
+          Cris Sidnee Ellery (S_b1) 
+          Talia Cheslie Purnell (S_f4) 
+          Juline Rosco Duns (S_f8) 
+          Ailbert Malorie Skingley (S_h9) 
+          Moll Friedrich Ferrie (S_i9) 
+          Bendick Roxy Manthorpe (S_j4) 
+          Stefanie Parsifal Blaik (S_j8) 
+          Cal Isak Loncaster (S_d9) 
+          Terrell Lina Geistbeck (S_f6) 
+          Royce Mic Crabtree (S_h6) 
+          Bealle Salomon Husher (S_a2) 
+          Errick Faunie Kearey (S_c0) 
+          Currie Winne Zanotti (S_i3) 
+          Lisette Bridgette Decreuze (S_j2) 
+          Paul Abbey Lorne (S_b3) 
+          Aura Angelina Lindstedt (S_e4) 
+          Ross Rania Gallifont (S_g1) 
+
+
+19. PSYC1 Introduction-to-Psychology
+
+    Session: C_i1
+      Professor Adella Stacia Machon (F_c7)
+        18 Students: 
+          Ferdie Blanche Guttridge (S_a4) 
+          Osborn Miquela Kennifeck (S_i4) 
+          Cris Sidnee Ellery (S_b1) 
+          Codi Josiah Cridlin (S_c5) 
+          Leanna Martynne Skate (S_f1) 
+          Talia Cheslie Purnell (S_f4) 
+          Ailbert Malorie Skingley (S_h9) 
+          Bendick Roxy Manthorpe (S_j4) 
+          Paul Abbey Lorne (S_b3) 
+          Etta Timofei Hansel (S_d0) 
+          Lilla Desdemona Gyorgy (S_d6) 
+          Billie Nadean Cometti (S_e5) 
+          Stevana Orren Bischop (S_e7) 
+          Mart Una Segeswoeth (S_f0) 
+          Hildy Michaeline Fortun (S_h5) 
+          Emilee Daniela Bockmaster (S_i1) 
+          Stavros Marena Lepoidevin (S_a8) 
+          Cal Isak Loncaster (S_d9) 
+
+
+20. PSYC2 Research-Methods-In-Psychology
+
+    Session: C_i4
+      Professor Felix Maude Silverson (F_c8)
+        12 Students: 
+          Ario Marci Sowle (S_d1) 
+          Lilian Anabal Rabbage (S_e0) 
+          North Zelig Haston (S_f5) 
+          Pinchas Dannye Brokenshaw (S_h0) 
+          Zebedee Fred Kupke (S_c3) 
+          Emmaline Faunie Erickssen (S_e2) 
+          Almeria Bartlett Ropars (S_e3) 
+          Eugine Alyosha Gobbett (S_g6) 
+          Kipp Adriane Kyte (S_h1) 
+          Estrellita Penn Falcus (S_a9) 
+          Keely Lauryn Folkard (S_b9) 
+          Joannes Joni MacDunlevy (S_d2) 
