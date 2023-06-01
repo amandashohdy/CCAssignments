@@ -1,0 +1,114 @@
+Write a program that reads in a set of commands, one per line, from an input file for managing a list of names 
+using a linked list. The program should read a single input string (do not prompt) from the console (i.e. using 
+cin) which is the file name containing this set of commands. Each command consists of a character and, 
+depending on the command, whitespace and a name. A name is a single string with no embedded white space (e.g. 
+John or Sally or Billie-Joe or Mark22). You must use the provided class NameNode (see code for documentation) 
+and must complete the class NameList with no additional members. The main must be completed to implement this 
+program, and all console output must be done in the main (i.e. none of the required methods below should output 
+to the console). Your source code (main.cpp, NameList.cpp, and NameList.cpp) must be fully documented per the 
+course rubric (see Canvas homepage). Please note that this implementation uses a head pointer (as demonstrated 
+in the course slides) rather than a dummy node for head (as done in zyBooks).
+
+Hint: to help debug your program, output the command line read from the input file before outputting the result 
+of executing the command line. When your program is working, remove the output of the command line.
+
+The list of possible commands in the input file are as follows (one per line):
+
+Command Description
+
++ name    Add name to end of list (must allocate memory)
+- name    Delete first occurrence of name from list (must deallocate memory)
+# name    Output the number of times name appears in the list
+d         Display all names, one per line
+t         Output the total number of names (including duplicates) in the list
+c         Clear the entire list (must deallocate all memory)
+q         Quit the program (must deallocate all memory)
+invalid    Ignore the rest of the line using ifstream object ignore() method
+command
+You must write the following methods for the NameList class:
+
+void AddName(string aName);
+
+Adds name aName to the end of the linked list (allocating the memory needed) and increments data member count 
+by one.
+
+bool DeleteName(string aName);
+
+Deletes the first occurrence of name aName in the linked list (freeing up the memory used) and decrements data 
+member count by one (if found). Returns true if aName was found and deleted, otherwise returns false. Hint: 
+treat an empty list and the first node in the list of as special cases.
+
+int CountName(string aName) const;
+
+Counts the number of occurrences of name aName in the entire linked list and returns that count.
+
+string DisplayNames() const;
+
+Returns a string that contains all the names in the linked list, one per line (i.e. each name in the string is 
+followed by the character ‘\n’). You must use the string method append() to construct the string of names 
+returned by this method.
+
+void Clear();
+
+Clears all the names in the linked list (freeing up all the memory used). Hint: treat an empty list and a list 
+of only one node as special cases.
+
+As an example, for an input file containing:
+
+t
+d
++ Marcus
+t
+d
++ John
++ John
++ Mary
+t
+d
+# John
+- John
+# John
+t
+d
+- Cathy
+x
+c
+t
++ Steven
+d
+q
+The output would be (note that there is an end-of-line after the very last line):
+
+There are no names in the list
+There are no names to display
+Adding name: Marcus
+There is 1 name in the list
+List of names:
+Marcus
+Adding name: John
+Adding name: John
+Adding name: Mary
+There are 4 names in the list
+List of names:
+Marcus
+John
+John
+Mary
+Name John occurs 2 times
+Deleting name: John
+Name John occurs 1 time
+There are 3 names in the list
+List of names:
+Marcus
+John
+Mary
+Deleting name: Cathy -> name Cathy not found!
+Unknown command x
+Clearing list of 3 nodes
+There are no names in the list
+Adding name: Steven
+List of names:
+Steven
+Clearing list of 1 node
+
+Thank you for using my name program.
