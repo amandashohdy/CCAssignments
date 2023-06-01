@@ -1,0 +1,33 @@
+TRANSACTION         DATE        ACCT #  ACCT NAME                 AMOUNT        BALANCE    FROM ACCT#    FROM ACCT BAL
+------------        ----------  -----   --------------------  ----------  -------------    ----------    -------------
+OPEN GENERIC         4/1/2021   6789    Joe Big              $   100.00  $      100.00    
+OPEN CHECKING        4/1/2021   2323    Jennifer Kim         $    50.00  $       50.00    
+OPEN SAVINGS         4/1/2021   1212    Nery Chapeton Lamas  $   300.00  $      300.00    
+OPEN MONEY MARKET    4/1/2021   3434    Shannon Alfaro       $   100.00  $      100.00    
+
+ Deposit             5/1/2021   1212    Nery Chapeton Lamas  $   100.00  $      430.00    
+ Deposit             5/1/2021   2323    Jennifer Kim         $   100.00  $      150.00    
+ Deposit             5/1/2021   3434    Shannon Alfaro       $   100.00  $      220.00    
+ Deposit             5/1/2021   6789    Joe Big              $    50.00  $      150.00    
+
+*** ERROR FOR TRANSACTION: Deposit, Account 1234 not found ***
+
+ Withdrawal          6/1/2021   1212    Nery Chapeton Lamas  $   200.00  $      273.00    
+ Withdrawal          6/1/2021   2323    Jennifer Kim         $   200.00  $      -70.00    
+ Withdrawal          6/1/2021   3434    Shannon Alfaro       $    50.00  $      212.50    
+ Withdrawal          6/1/2021   6789    Joe Big              $    10.00  $      140.00    
+
+*** ERROR FOR TRANSACTION: Withdrawal, Account 4321 not found ***
+
+
+*** ERROR FOR TRANSACTION: Transfer, Insufficient funds in account 2323 ***
+
+ Transfer            7/1/2021   2323    Jennifer Kim         $    80.00  $       10.00    3434          $      173.50
+ Transfer            7/1/2021   3434    Shannon Alfaro       $   300.00  $      473.50    1212          $        0.30
+ Transfer            8/1/2021   1212    Nery Chapeton Lamas  $    50.00  $       50.33    2323          $      -60.00
+ Deposit             9/1/2021   1212    Nery Chapeton Lamas  $   100.00  $      155.36    
+ Deposit             9/1/2021   2323    Jennifer Kim         $   100.00  $       40.00    
+ Deposit             9/1/2021   3434    Shannon Alfaro       $   100.00  $      781.84    
+
+*** ERROR FOR TRANSACTION: Transfer, Can not transfer from/to the same account 1212 ***
+
