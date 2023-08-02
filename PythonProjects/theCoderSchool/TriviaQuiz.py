@@ -1,0 +1,18 @@
+import time
+print("Welcome to the Quiz")
+time.sleep(1)
+print("Answer each question with the correct letter...")
+time.sleep(1)
+print()
+print("1. What is the largest animal in the world?")
+print("a. Horse")
+print("b. Dog")
+print("c. Blue Whale")
+print("d. Cobra")
+a1 = input("--> ")
+while (a1 != "c") :
+  print("INCORRECT!")
+  a1 = input("--> ")
+print("CORRECT")
+print()
+print("2. This is question 2")
