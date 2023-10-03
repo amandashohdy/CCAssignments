@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR		: AMANDA SHOHDY
- * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * AUTHOR      : AMANDA SHOHDY
+ * ASSIGNMENT  : ASSIGNMENT 7
+ * CLASS       : CS1B
+ * SECTION     : MW 1:30 - 3:50p
+ * DUE DATE    : 12 DECEMBER 2022
  **********************************/
 
 #include "Checking.h"
@@ -13,12 +13,12 @@ using namespace std ;
 
 /*************************************************************************
  * Constructor Checking : Class Checking
- * 		This constructor initializes the members to default values.
+ *     This constructor initializes the members to default values.
  *
  * PRE-CONDITIONS
- * 		none
+ *     none
  * POST-CONDITIONS
- * 		Members are initialized to default values.
+ *     Members are initialized to default values.
  *************************************************************************/
 Checking::Checking()
 : Account()
@@ -32,14 +32,14 @@ Checking::Checking()
  * 		This constructor initializes the members to passed values.
  *
  * PRE-CONDITIONS
- * 		openingDate 	: date account was opened
- * 		name 		   	: name of account holder
- * 		accountNum 		: account number
- * 		balance 			: amount being deposited
- * 		over 		   	: overdraft limit
- * 		fee 				: overdraft fee
+ * 		openingDate     : date account was opened
+ * 		name            : name of account holder
+ * 		accountNum      : account number
+ * 		balance         : amount being deposited
+ * 		over            : overdraft limit
+ * 		fee             : overdraft fee
  * POST-CONDITIONS
- * 		Members are initialized to passed values.
+ *      Members are initialized to passed values.
  *************************************************************************/
 Checking::Checking(Date openingDate, string name, int accountNum, float balance, float over, float fee)
 : Account(openingDate, name, accountNum, balance)
