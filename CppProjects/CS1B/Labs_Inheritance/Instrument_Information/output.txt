@@ -1,0 +1,79 @@
+INPUT: 
+Drums
+Zildjian
+2015
+2500
+Guitar
+Gibson
+2002
+1200
+6
+19
+
+OUTPUT: 
+Instrument Information: 
+   Name: Drums
+   Manufacturer: Zildjian
+   Year built: 2015
+   Cost: 2500
+Instrument Information: 
+   Name: Guitar
+   Manufacturer: Gibson
+   Year built: 2002
+   Cost: 1200
+   Number of strings: 6
+   Number of frets: 19
+
+
+INPUT: 
+Piano
+Yamaha
+1979
+10000
+Banjo
+Deering
+2018
+100
+4
+22
+
+OUTPUT:
+Instrument Information: 
+   Name: Piano
+   Manufacturer: Yamaha
+   Year built: 1979
+   Cost: 10000
+Instrument Information: 
+   Name: Banjo
+   Manufacturer: Deering
+   Year built: 2018
+   Cost: 100
+   Number of strings: 4
+   Number of frets: 22
+
+
+INPUT: 
+Clarinet
+Yamaha
+2017
+1371
+Ukulele
+Kala
+2018
+50
+6
+12
+
+OUTPUT: 
+Instrument Information: 
+   Name: Clarinet
+   Manufacturer: Yamaha
+   Year built: 2017
+   Cost: 1371
+Instrument Information: 
+   Name: Ukulele
+   Manufacturer: Kala
+   Year built: 2018
+   Cost: 50
+   Number of strings: 6
+   Number of frets: 12
