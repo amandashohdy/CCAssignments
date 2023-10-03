@@ -1,0 +1,48 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Online_Shopping_Cart/Part_1$
+ g++ main.cpp ItemToPurchase.cpp ItemToPurchase.h -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Online_Shopping_Cart/Part_1$
+ ./main
+Item 1
+Enter the item name:
+Chocolate Chips
+Enter the item price:
+3
+Enter the item quantity:
+1
+
+Item 2
+Enter the item name:
+Bottled Water
+Enter the item price:
+1
+Enter the item quantity:
+10
+
+TOTAL COST
+Chocolate Chips 1 @ $3 = $3
+Bottled Water 10 @ $1 = $10
+
+Total: $13
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Online_Shopping_Cart/Part_1$
+ ./main
+Item 1
+Enter the item name:
+NY Yankees Cap
+Enter the item price:
+20
+Enter the item quantity:
+2
+
+Item 2
+Enter the item name:
+Clemson Tigers Lamp
+Enter the item price:
+31
+Enter the item quantity:
+3
+
+TOTAL COST
+NY Yankees Cap 2 @ $20 = $40
+Clemson Tigers Lamp 3 @ $31 = $93
+
+Total: $133
