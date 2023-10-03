@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR		: AMANDA SHOHDY
- * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * AUTHOR       : AMANDA SHOHDY
+ * ASSIGNMENT   : ASSIGNMENT 7
+ * CLASS        : CS1B
+ * SECTION      : MW 1:30 - 3:50p
+ * DUE DATE     : 12 DECEMBER 2022
  **********************************/
 
 #include "Savings.h"
@@ -13,12 +13,12 @@ using namespace std ;
 
 /********************************************************************
  * Constructor Savings : Class Savings
- * 		This constructors initializes the members to default values.
+ *    This constructors initializes the members to default values.
  *
  * PRE-CONDITIONS
- * 		none
+ *    none
  * POST-CONDITIONS
- * 		Members are initialized to default values
+ *    Members are initialized to default values
  ********************************************************************/
 Savings::Savings()
 : Account()
@@ -28,16 +28,16 @@ Savings::Savings()
 
 /********************************************************************
  * Constructor Savings : Class Savings
- * 		This constructors initializes the members to passed values.
+ *    This constructors initializes the members to passed values.
  *
  * PRE-CONDITIONS
- * 		openingDate 	: date account was opened
- * 		name 		   	: name of account holder
- * 		accountNum 		: account number
- * 		balance 			: amount being deposited
- * 		intRate 			: interest rate
+ *    openingDate    : date account was opened
+ *    name           : name of account holder
+ *    accountNum     : account number
+ *    balance        : amount being deposited
+ *    intRate        : interest rate
  * POST-CONDITIONS
- * 		Members are initialized to passed values
+ *    Members are initialized to passed values
  ********************************************************************/
 Savings::Savings(Date openingDate, string name, int accountNum, float balance, float intRate)
 : Account(openingDate, name, accountNum, balance)
@@ -48,13 +48,13 @@ Savings::Savings(Date openingDate, string name, int accountNum, float balance, f
 
 /********************************************************************
  * Method UpdateAcct : Class Savings
- * 		This constructors initializes the members to passed values.
+ *    This constructors initializes the members to passed values.
  *
  * PRE-CONDITIONS
- * 		today 	: transaction date
+ *    today    : transaction date
  * POST-CONDITIONS
- * 		The currentBalance and lastTransDate members are updated.
- * 		There is no return value.
+ *    The currentBalance and lastTransDate members are updated.
+ *    There is no return value.
  ********************************************************************/
 void Savings::UpdateAcct(Date today)
 {
