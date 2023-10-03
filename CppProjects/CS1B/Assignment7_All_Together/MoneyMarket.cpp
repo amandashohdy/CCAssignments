@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR	  	: AMANDA SHOHDY
- * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * AUTHOR       : AMANDA SHOHDY
+ * ASSIGNMENT   : ASSIGNMENT 7
+ * CLASS        : CS1B
+ * SECTION      : MW 1:30 - 3:50p
+ * DUE DATE     : 12 DECEMBER 2022
  **********************************/
 
 #include "MoneyMarket.h"
@@ -13,12 +13,12 @@ using namespace std ;
 
 /***********************************************************************
  * Constructor MoneyMarket : Class MoneyMarket
- * 		This constructor initializes the members to default values.
+ *     This constructor initializes the members to default values.
  *
  * PRE-CONDITIONS
- * 		none
+ *     none
  * POST-CONDITIONS
- * 		Members are initialized to default values.
+ *     Members are initialized to default values.
  ***********************************************************************/
 MoneyMarket::MoneyMarket()
 : Savings()
@@ -28,17 +28,17 @@ MoneyMarket::MoneyMarket()
 
 /***********************************************************************
  * Constructor MoneyMarket : Class MoneyMarket
- * 		This constructor initializes the members to passed values.
+ *     This constructor initializes the members to passed values.
  *
  * PRE-CONDITIONS
- * 		openingDate 	: date account was opened
- * 		name 			   : name of account holder
- * 		accountNum 		: account number
- * 		balance 			: amount being deposited
- * 		intRate 			: interest rate
- * 		fee 				: withdrawal fee
+ *     openingDate : date account was opened
+ *     name        : name of account holder
+ *     accountNum  : account number
+ *     balance     : amount being deposited
+ *     intRate     : interest rate
+ *     fee         : withdrawal fee
  * POST-CONDITIONS
- * 		Members are initialized to passed values.
+ *     Members are initialized to passed values.
  ***********************************************************************/
 MoneyMarket::MoneyMarket(Date openingDate, string name, int accountNum, float balance, float intRate, float fee)
 : Savings(openingDate, name, accountNum, balance, intRate)
@@ -48,16 +48,16 @@ MoneyMarket::MoneyMarket(Date openingDate, string name, int accountNum, float ba
 
 /***********************************************************************
  * Method Withdrawal : Class MoneyMarket
- * 		This method overrides the Withdrawal method in the Account class.
- * 		A given amount of money is withdrawn and the account is charged
- * 		a $1.50 fee.
+ *    This method overrides the Withdrawal method in the Account class.
+ *    A given amount of money is withdrawn and the account is charged
+ *    a $1.50 fee.
  *
  * PRE-CONDITIONS
- * 		today	   : transaction date
- * 		amount 	: amount being withdrawn
+ *    today   : transaction date
+ *    amount  : amount being withdrawn
  * POST-CONDITIONS
- * 		The currentBalance and lastTransDate members are updated. There
- * 		is no return value.
+ *    The currentBalance and lastTransDate members are updated. There
+ *    is no return value.
  ***********************************************************************/
 void MoneyMarket::Withdrawal(Date today, float amount)
 {
