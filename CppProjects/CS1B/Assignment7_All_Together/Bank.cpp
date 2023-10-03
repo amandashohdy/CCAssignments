@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR		: AMANDA SHOHDY
+ * AUTHOR	: AMANDA SHOHDY
  * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * CLASS	: CS1B
+ * SECTION	: MW 1:30 - 3:50p
+ * DUE DATE	: 12 DECEMBER 2022
  **********************************/
 
 #include <iostream> //for debug only
