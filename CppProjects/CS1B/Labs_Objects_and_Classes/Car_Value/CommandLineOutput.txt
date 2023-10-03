@@ -1,0 +1,18 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Car_Value$ g++ main.cpp Car.
+cpp Car.h -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Car_Value$ ./main
+2011
+18000
+2018
+Car's information:
+  Model year: 2011
+  Purchase price: $18000
+  Current value: $5770
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Car_Value$ ./main
+1995
+32000
+2020
+Car's information:
+  Model year: 1995
+  Purchase price: $32000
+  Current value: $550
