@@ -1,0 +1,78 @@
+INPUT: 
+plant Spirea 10 
+flower Hydrengea 30 false lilac 
+flower Rose 6 false white
+plant Mint 4
+-1
+
+OUTPUT: 
+Plant Information:
+   Plant name: Spirea
+   Cost: 10
+
+Plant Information:
+   Plant name: Hydrengea
+   Cost: 30
+   Annual: false
+   Color of flowers: lilac
+
+Plant Information:
+   Plant name: Rose
+   Cost: 6
+   Annual: false
+   Color of flowers: white
+
+Plant Information:
+   Plant name: Mint
+   Cost: 4
+
+
+INPUT: 
+plant Basil 4
+plant Thyme 4
+flower Peony 30 false pink
+flower Marigold 6 false orange
+plant Juniper 10
+-1
+
+OUTPUT: 
+Plant Information:
+   Plant name: Basil
+   Cost: 4
+
+Plant Information:
+   Plant name: Thyme
+   Cost: 4
+
+Plant Information:
+   Plant name: Peony
+   Cost: 30
+   Annual: false
+   Color of flowers: pink
+
+Plant Information:
+   Plant name: Marigold
+   Cost: 6
+   Annual: false
+   Color of flowers: orange
+
+Plant Information:
+   Plant name: Juniper
+   Cost: 10
+
+
+INPUT: 
+plant Chives 10
+flower Daisy 6 true white
+-1
+
+OUTPUT: 
+Plant Information:
+   Plant name: Chives
+   Cost: 10
+
+Plant Information:
+   Plant name: Daisy
+   Cost: 6
+   Annual: true
+   Color of flowers: white
