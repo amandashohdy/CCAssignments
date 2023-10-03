@@ -8,7 +8,9 @@ percentage is 0.5 or greater.
 
 Ex: If the input is Ravens 13 3, where Ravens is the team's name, 13 is the number of team wins, and 3 is the 
 number of team losses, the output is:
-
 Win percentage: 0.81
 Congratulations, Team Ravens has a winning average!
+
 Ex: If the input is Angels 80 82, the output is:
+Win percentage: 0.49
+Team Angels has a losing average.
