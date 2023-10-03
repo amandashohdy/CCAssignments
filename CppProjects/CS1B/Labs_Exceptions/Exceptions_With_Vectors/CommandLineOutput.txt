@@ -1,0 +1,22 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Exceptions_With_Vectors$ g++ main.cpp -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Exceptions_With_Vectors$ ./main
+5
+Jane
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Exceptions_With_Vectors$ ./main
+12
+Exception! vector::_M_range_check: __n (which is 12) >= this->size() (which is 10)
+The closest name is: Johnny
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Exceptions_With_Vectors$
+ ./main
+-2
+Exception! vector::_M_range_check: __n (which is 18446744073709551614) >= this->size() (which is 10)
+The closest name is: Ryley
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Exceptions_With_Vectors$
+ ./main
+0
+Ryley
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Exceptions_With_Vectors$
+ ./main
+10
+Exception! vector::_M_range_check: __n (which is 10) >= this->size() (which is 10)
+The closest name is: Johnny
