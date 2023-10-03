@@ -19,11 +19,11 @@ using namespace std ;
  * 		of account being opened.
  *
  * PRE-CONDITIONS
- * 		date			: opening date
+ * 		date		: opening date
  * 		number 		: account number
  * 		amount		: money being deposited
- * 		name 		   : account holder name
- * 		type 		   : account type
+ * 		name 	        : account holder name
+ * 		type 		: account type
  * POST-CONDITIONS
  * 		A pointer to an Account object or subclass is added to the end of the
  * 		accounts list. There is no return value.
@@ -57,7 +57,7 @@ void Bank::OpenAccount(Date date, int number, float amount, string name, string 
  *
  * PRE-CONDITIONS
  * 		accNum		: account number
- * 		date 		   : transaction date
+ * 		date 	        : transaction date
  * 		amount		: amount being deposited
  * POST-CONDITIONS
  * 		The currentBalance data member of the account is updated. There is no return
@@ -77,7 +77,7 @@ void Bank::Deposit(int accNum, Date date, float amount)
  *
  * PRE-CONDITIONS
  * 		accNum		: account number
- * 		date 		   : transaction date
+ * 		date 		: transaction date
  * 		amount		: amount being withdrawn
  * POST-CONDITIONS
  * 		The currentBalance data member of the account is updated. There is no return
@@ -97,9 +97,9 @@ void Bank::Withdraw(int accNum, Date date, float amount)
  *
  * PRE-CONDITIONS
  * 		accNum		: account number money is being transferred to
- * 		date 		   : transaction date
+ * 		date 		: transaction date
  * 		amount		: amount being transferred
- * 		transfer		: account number money is being transferred from
+ * 		transfer	: account number money is being transferred from
  * POST-CONDITIONS
  * 		The currentBalance data member of the two account are updated. There is
  * 		no return value.
