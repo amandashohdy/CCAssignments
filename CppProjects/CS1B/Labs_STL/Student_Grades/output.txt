@@ -1,0 +1,25 @@
+INPUT: 
+Quincy Wraight
+73.1
+
+OUTPUT: 
+Quincy Wraight's original grade: 65.4
+Quincy Wraight's new grade: 73.1
+
+
+INPUT: 
+Stephanie Kong
+92.7
+
+OUTPUT: 
+Stephanie Kong's original grade: 91
+Stephanie Kong's new grade: 92.7
+
+
+INPUT: 
+Janine Antinori
+100.0
+
+OUTPUT: 
+Janine Antinori's original grade: 98.2
+Janine Antinori's new grade: 100
