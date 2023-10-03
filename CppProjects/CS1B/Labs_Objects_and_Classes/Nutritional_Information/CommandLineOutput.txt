@@ -1,0 +1,32 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Nutritional_Information$ g++ main.cpp FoodItem.cpp FoodItem.h -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Nutritional_Information$ ./main
+water
+Nutritional information per serving of Water:
+  Fat: 0.00 g
+  Carbohydrates: 0.00 g
+  Protein: 0.00 g
+Number of calories for 1.00 serving(s): 0.00
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Nutritional_Information$ ./main
+M&M's
+10.0
+34.0
+2.0
+1.0
+Nutritional information per serving of M&M's:
+  Fat: 10.00 g
+  Carbohydrates: 34.00 g
+  Protein: 2.00 g
+Number of calories for 1.00 serving(s): 234.00
+Number of calories for 1.00 serving(s): 234.00
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Nutritional_Information$ ./main
+Cabbage
+0.1
+6.0
+1.5
+5.5
+Nutritional information per serving of Cabbage:
+  Fat: 0.10 g
+  Carbohydrates: 6.00 g
+  Protein: 1.50 g
+Number of calories for 1.00 serving(s): 30.90
+Number of calories for 5.50 serving(s): 169.95
