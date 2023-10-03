@@ -1,0 +1,27 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Artwork_Label$ g++ main.cpp
+Artist.cpp Artist.h Artwork.cpp Artwork.h -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Artwork_Label$
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Artwork_Label$ ./main
+Pablo Picasso
+1881
+1973
+Three Musicians
+1921
+Artist: Pablo Picasso (1881 to 1973)
+Title: Three Musicians, 1921
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Artwork_Label$ ./main
+Brice Marden
+1938
+-1
+Distant Muses
+2000
+Artist: Brice Marden (1938 to present)
+Title: Distant Muses, 2000
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Artwork_Label$ ./main
+Banksy
+-1
+-1
+Balloon Girl
+2002
+Artist: Banksy (unknown)
+Title: Balloon Girl, 2002
