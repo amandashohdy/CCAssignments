@@ -29,17 +29,17 @@ Checking::Checking()
 
 /*************************************************************************
  * Constructor Checking : Class Checking
- * 		This constructor initializes the members to passed values.
+ *     This constructor initializes the members to passed values.
  *
  * PRE-CONDITIONS
- * 		openingDate     : date account was opened
- * 		name            : name of account holder
- * 		accountNum      : account number
- * 		balance         : amount being deposited
- * 		over            : overdraft limit
- * 		fee             : overdraft fee
+ *     openingDate     : date account was opened
+ *     name            : name of account holder
+ *     accountNum      : account number
+ *     balance         : amount being deposited
+ *     over            : overdraft limit
+ *     fee             : overdraft fee
  * POST-CONDITIONS
- *      Members are initialized to passed values.
+ *     Members are initialized to passed values.
  *************************************************************************/
 Checking::Checking(Date openingDate, string name, int accountNum, float balance, float over, float fee)
 : Account(openingDate, name, accountNum, balance)
@@ -50,16 +50,16 @@ Checking::Checking(Date openingDate, string name, int accountNum, float balance,
 
 /*************************************************************************
  * Method Withdrawal : Class Checking
- * 		This method overrides the Withdrawal method in the Account class.
- *		A given amount of money is withdrawn with a $200 overdraft limit.
- *		For each transaction that results in a negative balance, a $20
- *		fee is charged.
+ *     This method overrides the Withdrawal method in the Account class.
+ *     A given amount of money is withdrawn with a $200 overdraft limit.
+ *     For each transaction that results in a negative balance, a $20
+ *     fee is charged.
  *
  * PRE-CONDITIONS
- * 		today   : transaction date
- * 		amount  : amount being withdrawn
+ *     today   : transaction date
+ *     amount  : amount being withdrawn
  * POST-CONDITIONS
- * 		The currentBalance member is updates. There is no return value.
+ *     The currentBalance member is updates. There is no return value.
  *************************************************************************/
 void Checking::Withdrawal(Date today, float amount)
 {
