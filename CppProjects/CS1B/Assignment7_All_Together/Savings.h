@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR		: AMANDA SHOHDY
- * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * AUTHOR        : AMANDA SHOHDY
+ * ASSIGNMENT    : ASSIGNMENT 7
+ * CLASS         : CS1B
+ * SECTION       : MW 1:30 - 3:50p
+ * DUE DATE      : 12 DECEMBER 2022
  **********************************/
 
 #ifndef SAVINGS_H_
@@ -34,9 +34,9 @@ class Savings : public Account
 
 /******************************************************************************************
  * Savings Class : Inherited from Account Class
- * 		This class represents the Savings object. It manages 5 attributes inherited from
- * 		the Account Class: clientName, accNumber, currentBalance, openDate, and
- * 		lastAccessDate. It has a constant representing the interest rate.
+ *    This class represents the Savings object. It manages 5 attributes inherited from
+ *    the Account Class: clientName, accNumber, currentBalance, openDate, and
+ *    lastAccessDate. It has a constant representing the interest rate.
  ******************************************************************************************/
 
 
@@ -46,22 +46,22 @@ class Savings : public Account
 
 /******************************************************************************************
  * Savings() ;
- * 		Constructor :	initializes class attributes to default values
+ *    Constructor :    initializes class attributes to default values
  *
- * 		Parameter	:	none
- * 		Return		:	none
+ *    Parameter	:    none
+ *    Return    :    none
  ******************************************************************************************/
 
 /******************************************************************************************
  * Savings(Date openingDate, string name, int accountNum, float balance, float intRate) ;
- * 		Constructor :	initializes class attributes to passed values
+ *    Constructor :    initializes class attributes to passed values
  *
- * 		Parameter	:	openingDate (Date)	// IN - date account was opened
- * 						   name (string)	   	// IN - name of account holder
- * 						   accountNum (int)		// IN - account number
- * 						   balance (float)		// IN - amount being deposited
- * 						   intRate (float)		// PROCESSINGS - interest rate
- * 		Return		:	none
+ *    Parameter	:    openingDate (Date)    // IN - date account was opened
+ *                   name (string)         // IN - name of account holder
+ *                   accountNum (int)      // IN - account number
+ *                   balance (float)       // IN - amount being deposited
+ *                   intRate (float)       // PROCESSINGS - interest rate
+ *    Return    :    none
  ******************************************************************************************/
 
 
@@ -71,11 +71,11 @@ class Savings : public Account
 
 /******************************************************************************************
  * void UpdateAcct(Date today) override ;
- * 		Mutator	  :	Overrides the UpdateAcct function in the Account class. Every first
- * 						   of the month, the account makes interest.
+ *    Mutator   :    Overrides the UpdateAcct function in the Account class. Every first
+ *                      of the month, the account makes interest.
  *
- * 		Parameter :		today (Date) 	// IN - transaction date
- * 		Return	 :		none
+ *    Parameter :    today (Date)    // IN - transaction date
+ *    Return    :    none
  ******************************************************************************************/
 
 #endif /* SAVINGS_H_ */
