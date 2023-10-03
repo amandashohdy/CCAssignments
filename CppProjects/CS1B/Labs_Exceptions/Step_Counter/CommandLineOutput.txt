@@ -1,0 +1,7 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Step_Counter$ g++ main.cpp -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Step_Counter$ ./main
+5345
+2.67
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Exceptions/Step_Counter$ ./main
+-3850
+Exception: Negative step count entered.
