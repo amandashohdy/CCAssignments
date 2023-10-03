@@ -56,8 +56,8 @@ Checking::Checking(Date openingDate, string name, int accountNum, float balance,
  *		fee is charged.
  *
  * PRE-CONDITIONS
- * 		today 	: transaction date
- * 		amount	: amount being withdrawn
+ * 		today   : transaction date
+ * 		amount  : amount being withdrawn
  * POST-CONDITIONS
  * 		The currentBalance member is updates. There is no return value.
  *************************************************************************/
