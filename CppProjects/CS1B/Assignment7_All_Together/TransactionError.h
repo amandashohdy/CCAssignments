@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR		  : AMANDA SHOHDY
- * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * AUTHOR        : AMANDA SHOHDY
+ * ASSIGNMENT    : ASSIGNMENT 7
+ * CLASS         : CS1B
+ * SECTION       : MW 1:30 - 3:50p
+ * DUE DATE      : 12 DECEMBER 2022
  **********************************/
 
 #ifndef TRANSACTIONERROR_H_
@@ -30,8 +30,8 @@ class TransactionError
 
 /********************************************************************
  * TransactionError Class
- * 		This class represents the TransactionError object. It manages
- * 		an attribute errorMessage.
+ *    This class represents the TransactionError object. It manages
+ *    an attribute errorMessage.
  ********************************************************************/
 
 
@@ -41,10 +41,10 @@ class TransactionError
 
 /********************************************************************
  * TransactionError(string message) ;
- * 		Constructor :	initializes attribute to passed message
+ *    Constructor :    initializes attribute to passed message
  *
- * 		Parameter   :	message (string) - generated error message
- * 		Return 		:	none
+ *    Parameter :    message (string) - generated error message
+ *    Return    :    none
  ********************************************************************/
 
 
@@ -54,10 +54,10 @@ class TransactionError
 
 /********************************************************************
  * string what() ;
- * 		Accessor  : 	Returns stored error message
+ *    Accessor  :    Returns stored error message
  *
- * 		Parameter :		none
- * 		Return	 :		errorMessage (string) // OUT - error message
+ *    Parameter :    none
+ *    Return	:    errorMessage (string) // OUT - error message
  ********************************************************************/
 
 #endif /* TRANSACTIONERROR_H_ */
