@@ -1,0 +1,103 @@
+INPUT: 
+ECE287
+Digital Systems Design
+ECE387
+Embedded Systems Design
+Mark Patterson
+Fall 2018
+WF: 2-3:30 pm
+
+OUTPUT:
+Course Information: 
+   Course Number: ECE287
+   Course Title: Digital Systems Design
+Course Information: 
+   Course Number: ECE387
+   Course Title: Embedded Systems Design
+   Instructor Name: Mark Patterson
+   Term: Fall 2018
+   Class Time: WF: 2-3:30 pm
+
+
+INPUT: 
+CSE 174
+Systems I
+CSE 274
+Systems II
+Dr. Susan Thomas
+Spring 2019
+MWF: 10-10:50 am
+
+OUTPUT: 
+Course Information: 
+   Course Number: CSE 174
+   Course Title: Systems I
+Course Information: 
+   Course Number: CSE 274
+   Course Title: Systems II
+   Instructor Name: Dr. Susan Thomas
+   Term: Spring 2019
+   Class Time: MWF: 10-10:50 am
+
+
+INPUT: 
+CEC 101
+Introduction to Computing
+CEC 102
+Computing and beyond
+Dr. Rob Adams
+Fall 2019
+MWF: 3-4:50 pm
+
+OUTPUT: 
+Course Information: 
+   Course Number: CEC 101
+   Course Title: Introduction to Computing
+Course Information: 
+   Course Number: CEC 102
+   Course Title: Computing and beyond
+   Instructor Name: Dr. Rob Adams
+   Term: Fall 2019
+   Class Time: MWF: 3-4:50 pm
+
+
+INPUT: 
+ECE201
+Circuits I
+ECE301
+Circuits II
+Jeff Peters
+Fall 2018
+WF: 12-1:30 pm
+
+OUTPUT: 
+Course Information: 
+   Course Number: ECE201
+   Course Title: Circuits I
+Course Information: 
+   Course Number: ECE301
+   Course Title: Circuits II
+   Instructor Name: Jeff Peters
+   Term: Fall 2018
+   Class Time: WF: 12-1:30 pm
+
+
+INPUT: 
+CSE101
+Algorithm I
+CSE102
+Algorithm II
+Tim Allen
+Fall 2019
+WF: 1-2:30 pm
+
+OUTPUT: 
+Course Information: 
+   Course Number: CSE101
+   Course Title: Algorithm I
+Course Information: 
+   Course Number: CSE102
+   Course Title: Algorithm II
+   Instructor Name: Tim Allen
+   Term: Fall 2019
+   Class Time: WF: 1-2:30 pm
