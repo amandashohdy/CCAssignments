@@ -1,0 +1,49 @@
+INPUT: 
+Dobby
+2
+Kreacher
+3
+German Schnauzer
+
+OUTPUT: 
+Pet Information: 
+   Name: Dobby
+   Age: 2
+Pet Information: 
+   Name: Kreacher
+   Age: 3
+   Breed: German Schnauzer
+
+
+INPUT: 
+Mittens
+4
+Bolt
+2
+German Shepherd
+
+OUTPUT:
+Pet Information: 
+   Name: Mittens
+   Age: 4
+Pet Information: 
+   Name: Bolt
+   Age: 2
+   Breed: German Shepherd
+
+
+INPUT:
+Coco
+1
+Simba
+2
+Poodle
+
+OUTPUT: 
+Pet Information: 
+   Name: Coco
+   Age: 1
+Pet Information: 
+   Name: Simba
+   Age: 2
+   Breed: Poodle
