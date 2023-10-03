@@ -1,0 +1,11 @@
+StudentID Answers               % Score Grade
+AAB000    TFTTTFTTTT_TFTFFT_FT     82.5     B
+ABC123    TFTFTFTTTTFTFTFFTTF_     95.0     A
+DDC123    _FTFTFTTTTFTFTFFTTFT     95.0     A
+DOZ003    TFTFTFTTTTFFFFFFFFFF     62.5     D
+ZZT090    TTTFFFTTTFFFTTTFFF__     30.0     F
+
+
+Min score is  30.0% for Student ID ZZT090
+Max score is  95.0% for Student ID ABC123
+Average   is  73.0%
