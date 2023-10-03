@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR		: AMANDA SHOHDY
- * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * AUTHOR        : AMANDA SHOHDY
+ * ASSIGNMENT    : ASSIGNMENT 7
+ * CLASS         : CS1B
+ * SECTION       : MW 1:30 - 3:50p
+ * DUE DATE      : 12 DECEMBER 2022
  **********************************/
 
 #include <iostream>
@@ -17,38 +17,38 @@ using namespace std ;
 
 /****************************************************************************************
  * Function Main()
- * 		This function takes in the names of three files: the accounts information, the
- * 		transaction information, and the output file. The account information is read
- * 		and accounts are opened based on that information until the end of the file.
- * 		Transactions are then conducted based on the information in the transaction file
- * 		until the end of the file.
- * 		Main catches and outputs TransactionErrors to the output file.
+ *    This function takes in the names of three files: the accounts information, the
+ *    transaction information, and the output file. The account information is read
+ *    and accounts are opened based on that information until the end of the file.
+ *    Transactions are then conducted based on the information in the transaction file
+ *    until the end of the file.
+ *    Main catches and outputs TransactionErrors to the output file.
  ****************************************************************************************/
 int main()
 {
-	Date currentDate ;			// PROCESSING - initialized with month, day, and year
-	int month ;					   // IN - month of transaction
-	int day ;					   // IN - day of transaction
-	int year ;					   // IN - year of transaction
-	int accNumber ;				// IN - account number
-	string accType ;				// IN - type of account
-	float amount ;				   // IN - amount of money
-	string name ;				   // IN - account holder's name
-	string action ;				// IN - action being taken with account
-	int transferFrom ;			// IN - account money is being transferred from
-	Bank bank ;					   // PROCESSING - bank object
-	int prevAcct = 0;			   // PROCESSING - ensures no repeat accounts
+	Date currentDate ;        // PROCESSING - initialized with month, day, and year
+	int month ;               // IN - month of transaction
+	int day ;                 // IN - day of transaction
+	int year ;                // IN - year of transaction
+	int accNumber ;           // IN - account number
+	string accType ;          // IN - type of account
+	float amount ;            // IN - amount of money
+	string name ;             // IN - account holder's name
+	string action ;           // IN - action being taken with account
+	int transferFrom ;        // IN - account money is being transferred from
+	Bank bank ;               // PROCESSING - bank object
+	int prevAcct = 0;         // PROCESSING - ensures no repeat accounts
 
-	string accountFile ;			// IN - data for opening accounts file name
-	string transaction ;			// IN - data for transactions file name
-	string results ;				// IN - output file name
+	string accountFile ;      // IN - data for opening accounts file name
+	string transaction ;      // IN - data for transactions file name
+	string results ;          // IN - output file name
 
 	ifstream dataFile ;
 	ofstream resultsFile ;
 
-	cin >> accountFile ;			// read in opening file name
-	cin >> transaction ;			// read in transaction file name
-	cin >> results ;				// read in output file name
+	cin >> accountFile ;      // read in opening file name
+	cin >> transaction ;      // read in transaction file name
+	cin >> results ;          // read in output file name
 
 	resultsFile.open(results) ;		// open output file
 	printTransactionHeading(resultsFile) ;	// print heading to output file
