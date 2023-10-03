@@ -1,0 +1,38 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Triangle_Area_Comparison$ g+
++ main.cpp Triangle.cpp Triangle.h -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Triangle_Area_Comparison$ ./
+main
+3.0 4.0
+4.0 5.0
+Triangle with smaller area:
+Base: 3.00
+Height: 4.00
+Area: 6.00
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Triangle_Area_Comparison$ ./main
+12.0 16.0
+10.0 18.0
+Triangle with smaller area:
+Base: 10.00
+Height: 18.00
+Area: 90.00
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Triangle_Area_Comparison$ ./main
+6.5 2.0
+3.0 4.5
+Triangle with smaller area:
+Base: 6.50
+Height: 2.00
+Area: 6.50
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Triangle_Area_Comparison$ ./main
+15.5 2.3
+16.1 2.0
+Triangle with smaller area:
+Base: 16.10
+Height: 2.00
+Area: 16.10
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Triangle_Area_Comparison$ ./main
+23.4 12.3
+4.5 43.2
+Triangle with smaller area:
+Base: 4.50
+Height: 43.20
+Area: 97.20
