@@ -1,0 +1,177 @@
+Adding name: Nadia2
+Adding name: Hideo0
+Adding name: Hideo4
+Adding name: Lakshmi3
+Adding name: Ali4
+Adding name: Andy0
+Adding name: Nadia2
+Adding name: Nadia1
+Adding name: Andy2
+Adding name: Ali1
+Adding name: Nadia4
+Adding name: Ali3
+Adding name: Ali2
+Adding name: Nadia1
+Adding name: Lakshmi0
+Name Nadia4 occurs 1 time
+There are 15 names in the list
+List of names:
+Nadia2
+Hideo0
+Hideo4
+Lakshmi3
+Ali4
+Andy0
+Nadia2
+Nadia1
+Andy2
+Ali1
+Nadia4
+Ali3
+Ali2
+Nadia1
+Lakshmi0
+There are 15 names in the list
+Adding name: Hideo1
+Deleting name: Lakshmi2 -> name Lakshmi2 not found!
+Adding name: Hideo2
+Adding name: Ali3
+List of names:
+Nadia2
+Hideo0
+Hideo4
+Lakshmi3
+Ali4
+Andy0
+Nadia2
+Nadia1
+Andy2
+Ali1
+Nadia4
+Ali3
+Ali2
+Nadia1
+Lakshmi0
+Hideo1
+Hideo2
+Ali3
+Adding name: Andy2
+Unknown command z
+List of names:
+Nadia2
+Hideo0
+Hideo4
+Lakshmi3
+Ali4
+Andy0
+Nadia2
+Nadia1
+Andy2
+Ali1
+Nadia4
+Ali3
+Ali2
+Nadia1
+Lakshmi0
+Hideo1
+Hideo2
+Ali3
+Andy2
+List of names:
+Nadia2
+Hideo0
+Hideo4
+Lakshmi3
+Ali4
+Andy0
+Nadia2
+Nadia1
+Andy2
+Ali1
+Nadia4
+Ali3
+Ali2
+Nadia1
+Lakshmi0
+Hideo1
+Hideo2
+Ali3
+Andy2
+Name Andy0 occurs 1 time
+Deleting name: Lakshmi3
+There are 18 names in the list
+List of names:
+Nadia2
+Hideo0
+Hideo4
+Ali4
+Andy0
+Nadia2
+Nadia1
+Andy2
+Ali1
+Nadia4
+Ali3
+Ali2
+Nadia1
+Lakshmi0
+Hideo1
+Hideo2
+Ali3
+Andy2
+Name Nadia4 occurs 1 time
+Adding name: Hideo3
+Unknown command z
+List of names:
+Nadia2
+Hideo0
+Hideo4
+Ali4
+Andy0
+Nadia2
+Nadia1
+Andy2
+Ali1
+Nadia4
+Ali3
+Ali2
+Nadia1
+Lakshmi0
+Hideo1
+Hideo2
+Ali3
+Andy2
+Hideo3
+Adding name: Hideo3
+List of names:
+Nadia2
+Hideo0
+Hideo4
+Ali4
+Andy0
+Nadia2
+Nadia1
+Andy2
+Ali1
+Nadia4
+Ali3
+Ali2
+Nadia1
+Lakshmi0
+Hideo1
+Hideo2
+Ali3
+Andy2
+Hideo3
+Hideo3
+Name Nadia0 occurs 0 times
+There are 20 names in the list
+Unknown command z
+There are 20 names in the list
+Name Nadia0 occurs 0 times
+Name Ali4 occurs 1 time
+Name Andy1 occurs 0 times
+Deleting name: Hideo0
+Clearing list of 19 nodes
+
+Thank you for using my name program.
