@@ -1,0 +1,33 @@
+There are no names in the list
+There are no names to display
+Adding name: Marcus
+There is 1 name in the list
+List of names:
+Marcus
+Adding name: John
+Adding name: John
+Adding name: Mary
+There are 4 names in the list
+List of names:
+Marcus
+John
+John
+Mary
+Name John occurs 2 times
+Deleting name: John
+Name John occurs 1 time
+There are 3 names in the list
+List of names:
+Marcus
+John
+Mary
+Deleting name: Cathy -> name Cathy not found!
+Unknown command x
+Clearing list of 3 nodes
+There are no names in the list
+Adding name: Steven
+List of names:
+Steven
+Clearing list of 1 node
+
+Thank you for using my name program.
