@@ -12,6 +12,3 @@ number of team losses, the output is:
 Win percentage: 0.81
 Congratulations, Team Ravens has a winning average!
 Ex: If the input is Angels 80 82, the output is:
-
-Win percentage: 0.49
-Team Angels has a losing average.
