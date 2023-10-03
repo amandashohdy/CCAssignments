@@ -1,0 +1,111 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Online_Shopping_Cart/Part_2$
+ ./main
+Enter customer's name:
+John Doe
+Enter today's date:
+February 1, 2016
+
+Customer name: John Doe
+Today's date: February 1, 2016
+
+MENU
+a - Add item to cart
+d - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Choose an option: a
+
+ADD ITEM TO CART
+Enter the item name:
+Nike Romaleos
+Enter the item description:
+Volt color, Weightlifting shoes
+Enter the item price:
+189
+Enter the item quantity:
+2
+
+MENU
+a - Add item to cart
+d - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Choose an option: a
+
+ADD ITEM TO CART
+Enter the item name:
+Chocolate Chips
+Enter the item description:
+Semi-sweet
+Enter the item price:
+3
+Enter the item quantity:
+5
+
+MENU
+a - Add item to cart
+d - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Choose an option: a
+
+ADD ITEM TO CART
+Enter the item name:
+Powerbeats 2 Headphones
+Enter the item description:
+Bluetooth headphones
+Enter the item price:
+128
+Enter the item quantity:
+1
+
+MENU
+a - Add item to cart
+d - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Choose an option: d
+
+REMOVE ITEM FROM CART
+Enter name of item to remove:
+Chocolate Chips
+MENU
+a - Add item to cart
+d - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Choose an option: o
+
+OUTPUT SHOPPING CART
+John Doe's Shopping Cart - February 1, 2016
+Number of Items: 3
+
+Nike Romaleos 2 @ $189 = $378
+Powerbeats 2 Headphones 1 @ $128 = $128
+
+Total: $506
+
+MENU
+a - Add item to cart
+d - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Choose an option: q
