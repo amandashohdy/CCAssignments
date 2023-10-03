@@ -1,0 +1,10 @@
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Winning_Team$ g++ main.cpp T
+eam.cpp Team.h -o main
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Winning_Team$ ./main
+Ravens 13 3
+Win percentage: 0.81
+Congratulations, Team Ravens has a winning average!
+amanda@Amanda:/mnt/c/Users/amand/OneDrive/System/CCAssignments/CppProjects/CS1B/Labs_Objects_and_Classes/Winning_Team$ ./main
+Angels 80 82
+Win percentage: 0.49
+Team Angels has a losing average.
