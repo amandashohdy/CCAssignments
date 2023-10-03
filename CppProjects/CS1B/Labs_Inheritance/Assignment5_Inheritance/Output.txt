@@ -1,0 +1,85 @@
+Input: 
+
+The Hobbit
+J. R. R. Tolkien
+George Allen & Unwin
+21 September 1937
+The Illustrated Encyclopedia of the Universe
+James W. Guthrie
+Watson-Guptill
+2001
+2nd
+1
+
+Output: 
+
+Book Information:
+   Book Title: The Hobbit
+   Author: J. R. R. Tolkien
+   Publisher: George Allen & Unwin
+   Publication Date: 21 September 1937
+Book Information:
+   Book Title: The Illustrated Encyclopedia of the Universe
+   Author: James W. Guthrie
+   Publisher: Watson-Guptill
+   Publication Date: 2001
+   Edition: 2nd
+   Number of Volumes: 1
+
+
+Input: 
+
+The Catcher in the Rye
+J. D. Salinger
+Little, Brown and Company
+July 16, 1951
+Encyclopaedia Britannica
+N/A
+Benton Foundation
+2010
+15th
+32
+
+Output: 
+
+Book Information: 
+   Book Title: The Catcher in the Rye
+   Author: J. D. Salinger
+   Publisher: Little, Brown and Company
+   Publication Date: July 16, 1951
+Book Information: 
+   Book Title: Encyclopaedia Britannica
+   Author: N/A
+   Publisher: Benton Foundation
+   Publication Date: 2010
+   Edition: 15th
+   Number of Volumes: 32
+
+
+Input: 
+
+Jane Eyre
+Charlotte Brontë
+Smith, Elder & Co.
+October 16, 1847
+Encyclopedia of Animals
+McGhee, Karen, and George McKay
+National Geographic Society
+2007
+2nd
+4
+
+Output: 
+
+Book Information: 
+   Book Title: Jane Eyre
+   Author: Charlotte Brontë
+   Publisher: Smith, Elder & Co.
+   Publication Date: October 16, 1847
+Book Information: 
+   Book Title: Encyclopedia of Animals
+   Author: McGhee, Karen, and George McKay
+   Publisher: National Geographic Society
+   Publication Date: 2007
+   Edition: 2nd
+   Number of Volumes: 4
