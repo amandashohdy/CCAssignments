@@ -1,9 +1,9 @@
 /*********************************
- * AUTHOR		: AMANDA SHOHDY
- * ASSIGNMENT	: ASSIGNMENT 7
- * CLASS			: CS1B
- * SECTION		: MW 1:30 - 3:50p
- * DUE DATE		: 12 DECEMBER 2022
+ * AUTHOR       : AMANDA SHOHDY
+ * ASSIGNMENT   : ASSIGNMENT 7
+ * CLASS        : CS1B
+ * SECTION      : MW 1:30 - 3:50p
+ * DUE DATE     : 12 DECEMBER 2022
  **********************************/
 
 #ifndef MONEYMARKET_H_
@@ -32,9 +32,9 @@ class MoneyMarket : public Savings
 
 /*************************************************************************************************************
  * MoneyMarket Class : Inherited from Savings Class
- * 		This class represents the MoneyMarket object. It manages 5 attributes inherited from the Savings
- * 		Class: clientName, acctNumber, currentBalance, openDate, and lastAccessDate. It has a constant
- * 		representing the withdrawal fee.
+ *    This class represents the MoneyMarket object. It manages 5 attributes inherited from the Savings
+ *    Class: clientName, acctNumber, currentBalance, openDate, and lastAccessDate. It has a constant
+ *    representing the withdrawal fee.
  *************************************************************************************************************/
 
 
@@ -44,23 +44,23 @@ class MoneyMarket : public Savings
 
 /*************************************************************************************************************
  * Checking() ;
- * 		Constructor :	Initializes class attributes to default values
+ *    Constructor:   Initializes class attributes to default values
  *
- * 		Parameter	:	none
- * 		Return 		:	none
+ *    Parameter :    none
+ *    Return    :    none
  *************************************************************************************************************/
 
 /*************************************************************************************************************
  * Checking(Date openingDate, string name, int accountNum, float balance, float intRate, float fee) ;
- * 		Constructor :	Initializes class attributes to passed values
+ *    Constructor :    Initializes class attributes to passed values
  *
- * 		Parameter	:	openingDate (Date)	// IN - date account was opened
- * 						   name (string)		   // IN - name of account holder
- * 						   accountNum (int)		// IN - account number
- * 					   	balance (float)		// IN - amount being deposited
- * 						   intRate (float)		// PROCESSINGS - interest rate
- * 						   fee (float)		   	// PROCESSING - withdrawal fee
- * 		Return 		:	none
+ *    Parameter	:    openingDate (Date)       // IN - date account was opened
+ *                   name (string)            // IN - name of account holder
+ *                   accountNum (int)         // IN - account number
+ *                   balance (float)          // IN - amount being deposited
+ *                   intRate (float)          // PROCESSINGS - interest rate
+ *                   fee (float)              // PROCESSING - withdrawal fee
+ *    Return    :    none
  *************************************************************************************************************/
 
 
@@ -70,12 +70,12 @@ class MoneyMarket : public Savings
 
 /*************************************************************************************************************
  * void Withdrawal(Date today, float amount) override ;
- * 		Mutator	  :	Overrides the Withdrawal function of the Account class. Charges a fee for any
- * 						   withdrawal
+ *    Mutator    :    Overrides the Withdrawal function of the Account class. Charges a fee for any
+ *                    withdrawal
  *
- * 		Parameter :		today (Date) 	   // IN - transaction date
- * 						   amount (float) 	// IN - amount being withdrawn
- * 		Return	 : 	none
+ *    Parameter :    today (Date)    // IN - transaction date
+ *                   amount (float)  // IN - amount being withdrawn
+ *    Return    :    none
  *************************************************************************************************************/
 
 #endif /* MONEYMARKET_H_ */
