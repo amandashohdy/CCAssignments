@@ -1,0 +1,22 @@
+Adding name: Marcus
+There is 1 name in the list
+List of names:
+Marcus
+Name Marcus occurs 1 time
+Deleting name: Marcus
+There are no names in the list
+There are no names to display
+Adding name: Steven
+There is 1 name in the list
+List of names:
+Steven
+Clearing list of 1 node
+There are no names in the list
+There are no names to display
+Adding name: Andrea
+There is 1 name in the list
+List of names:
+Andrea
+Clearing list of 1 node
+
+Thank you for using my name program.
