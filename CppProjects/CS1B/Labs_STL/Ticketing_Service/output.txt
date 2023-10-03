@@ -1,0 +1,64 @@
+INPUT:
+Zadie Smith
+Tom Sawyer
+You
+Louisa Alcott
+-1
+
+OUTPUT:
+Welcome to the ticketing service... 
+You are number 3 in the queue.
+Zadie Smith has purchased a ticket.
+You are now number 2
+Tom Sawyer has purchased a ticket.
+You are now number 1
+You can now purchase your ticket!
+
+
+INPUT: 
+You
+-1
+
+OUTPUT:
+Welcome to the ticketing service... 
+You are number 1 in the queue.
+You can now purchase your ticket!
+
+
+INPUT:
+You
+Sophie Morgan
+Jason Tsai
+Ashlee Heaton
+Whit Phuong
+-1
+
+OUTPUT: 
+Welcome to the ticketing service... 
+You are number 1 in the queue.
+You can now purchase your ticket!
+
+
+INPUT:
+Bruce Banner
+Steve Rogers
+Tony Stark
+Natalia Romanova
+Peter Parker
+You
+-1
+
+OUTPUT: 
+Welcome to the ticketing service... 
+You are number 6 in the queue.
+Bruce Banner has purchased a ticket.
+You are now number 5
+Steve Rogers has purchased a ticket.
+You are now number 4
+Tony Stark has purchased a ticket.
+You are now number 3
+Natalia Romanova has purchased a ticket.
+You are now number 2
+Peter Parker has purchased a ticket.
+You are now number 1
+You can now purchase your ticket!
