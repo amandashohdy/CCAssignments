@@ -31,9 +31,9 @@ Programmer::Programmer()
  * 
  * PRE-CONDITIONS
  * 		eName (string) 		- programmer name
- * 		eID (int) 			- programmer ID
+ * 		eID (int) 		- programmer ID
  * 		eNumber (string)	- programmer phone number
- * 		eAge (int)			- programmer age
+ * 		eAge (int)		- programmer age
  * 		eGender (char)		- programmer gender
  * 		eTitle (string)		- programmer job title
  * 		eSalary (float)		- programmer salary
@@ -41,8 +41,8 @@ Programmer::Programmer()
  * 		depNum (int)		- programmer department
  * 		supName (string)	- programmer supervisor name
  * 		perSalaryInc(float)	- programmer percent salary increase
- * 		cpp (bool)			- programmer knows cpp
- * 		java (bool)			- programmer knows java
+ * 		cpp (bool)		- programmer knows cpp
+ * 		java (bool)		- programmer knows java
  * POST-CONDITIONS
  * 		Class attributes are initialized to passed values.
  ***********************************************************************************/
